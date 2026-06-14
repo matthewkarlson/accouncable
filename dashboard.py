@@ -62,6 +62,9 @@ TOTAL = df["net_amount"].sum()
 DATE_FROM = df["payment_date"].min().strftime("%b %Y")
 DATE_TO = df["payment_date"].max().strftime("%b %Y")
 
+optalis_total = df[df["supplier"].str.contains("Optalis", case=False, na=False)]["net_amount"].sum()
+afc_total = df[df["supplier"].str.contains("Achieving for Children", case=False, na=False)]["net_amount"].sum()
+
 # ── Header ────────────────────────────────────────────────────────────────────
 
 st.markdown("## Where does RBWM spend your money?")
@@ -71,8 +74,7 @@ st.markdown(
     f"it makes to external suppliers over £100. This dashboard pulls together all of those "
     f"records from **{DATE_FROM} to {DATE_TO}** — {len(df):,} payments totalling "
     f"**£{TOTAL / 1e6:.0f} million** — and makes them easy to explore. "
-    f"Staff salaries and internal transfers are not included; these figures cover money "
-    f"paid out to outside organisations."
+    f"Staff salaries and internal transfers are not included."
 )
 st.caption(
     f"[Source: RBWM published supplier payments ↗](https://www.rbwm.gov.uk/council-and-democracy/budgets-and-spending) · "
@@ -147,20 +149,11 @@ with tab_overview:
     social_care = df[
         df["directorate"].isin(["Adult Social Care & Health", "Children's Services"])
     ]["net_amount"].sum()
-    optalis = df[df["supplier"].str.contains("Optalis", case=False, na=False)]["net_amount"].sum()
-    afc = df[df["supplier"].str.contains("Achieving for Children", case=False, na=False)]["net_amount"].sum()
 
-    st.info(
-        f"**Social care accounts for {social_care / TOTAL * 100:.0f}% of all spending** "
-        f"(£{social_care / 1e6:.0f}M). This is a legal duty — councils must fund care for "
-        "elderly residents, disabled adults, and vulnerable children regardless of budget pressure."
-    )
-
-    st.warning(
-        f"**More than £1 in every £3 goes to two companies most residents have never heard of.** "
-        f"Optalis (£{optalis / 1e6:.0f}M) and Achieving for Children (£{afc / 1e6:.0f}M) "
-        f"together account for **£{(optalis + afc) / 1e6:.0f}M — "
-        f"{(optalis + afc) / TOTAL * 100:.0f}% of total spend**. "
+    st.caption(
+        f"Social care (adult + children's) accounts for {social_care / TOTAL * 100:.0f}% of all spending "
+        f"(£{social_care / 1e6:.0f}M). Optalis and Achieving for Children together receive "
+        f"£{(optalis_total + afc_total) / 1e6:.0f}M — {(optalis_total + afc_total) / TOTAL * 100:.0f}% of the total. "
         "Both are arm's-length companies the council itself created."
     )
 
@@ -176,14 +169,10 @@ with tab_suppliers:
         "set up to deliver social care services at arm's length. Most residents have never "
         "heard of either, yet together they account for more than a third of all supplier spending."
     )
-
-    st.info(
-        "**Note on two entries you may see:** "
-        "The 'Department for Communities & Local Government' (ranked #3, £81M) is not a commercial supplier — "
-        "these are statutory Business Rates Tariff payments that councils are legally required to remit to "
-        "central government under the business rates retention scheme. "
-        "Entries labelled 'REDACTED PERSONAL DATA' are grants and payments to individuals (e.g. foster carers) "
-        "where personal details are withheld; they are excluded from this chart."
+    st.caption(
+        "The 'Department for Communities & Local Government' entry is not a commercial supplier — "
+        "it is a statutory Business Rates Tariff remittance councils are legally required to make. "
+        "Entries labelled 'REDACTED PERSONAL DATA' (grants to individuals such as foster carers) are excluded from this chart."
     )
 
     n = st.select_slider("Show top", options=[10, 20, 30, 50], value=20)
@@ -271,7 +260,6 @@ with tab_trend:
     )
     st.plotly_chart(fig3, use_container_width=True)
 
-    # Complete-year totals
     df_year = df.copy()
     df_year["year"] = df_year["payment_date"].dt.year
     by_year = (
@@ -309,9 +297,7 @@ with tab_search:
             | df["service"].str.contains(query, case=False, na=False)
         )
         results = df[mask].sort_values("net_amount", ascending=False)
-        st.caption(
-            f"{len(results):,} payments · total £{results['net_amount'].sum():,.0f}"
-        )
+        st.caption(f"{len(results):,} payments · total £{results['net_amount'].sum():,.0f}")
         st.dataframe(
             results[["payment_date", "supplier", "net_amount", "directorate", "purpose"]]
             .rename(columns={
@@ -340,13 +326,50 @@ with tab_flags:
         "able to answer, and that residents have every right to ask."
     )
 
+    # Dissolved companies — shown first as highest-priority finding
+    dissolved = load_flag("dissolved_companies")
+    if not dissolved.empty:
+        verified = dissolved[
+            dissolved.get("cessation_verified", pd.Series(False, index=dissolved.index)) == True
+        ]
+        with st.expander(
+            f"🔴 Payments to dissolved companies — {len(verified)} confirmed cases",
+            expanded=True,
+        ):
+            st.markdown(
+                "These suppliers were formally dissolved on Companies House — yet RBWM continued sending "
+                "them public money. A dissolved company cannot legally hold or spend funds, and payments "
+                "made after dissolution cannot be reclaimed through normal contract mechanisms."
+            )
+            if not verified.empty:
+                show_v = verified[["supplier", "ch_status", "date_of_cessation", "post_dissolution_spend"]].copy()
+                show_v["date_of_cessation"] = pd.to_datetime(show_v["date_of_cessation"]).dt.strftime("%d/%m/%Y")
+                st.dataframe(
+                    show_v.rename(columns={
+                        "supplier": "Supplier",
+                        "ch_status": "Companies House Status",
+                        "date_of_cessation": "Dissolved On",
+                        "post_dissolution_spend": "Paid After Dissolution (£)",
+                    }).style.format({"Paid After Dissolution (£)": "£{:,.0f}"}),
+                    use_container_width=True,
+                    hide_index=True,
+                )
+            st.markdown(
+                "**Vivid Resourcing Ltd** dissolved 30 Jan 2024 — 564 further payments worth £958k followed. "
+                "**Barkland Tree Specialists** dissolved 2011 — payments continued until at least 2025 (£706k). "
+                "Three further suppliers in active liquidation (Enlightenment Care Services, Care Staff Services, "
+                "Evolution5 Construction) received a combined £3.1M while winding up."
+            )
+            st.caption(
+                "FOI requests about Vivid Resourcing Ltd and Barkland Tree Specialists have been submitted to RBWM."
+            )
+
     # Pre-invoice payments
     pre = df[df["invoice_date"] > df["payment_date"]].copy()
     pre["days_early"] = (pre["invoice_date"] - pre["payment_date"]).dt.days
 
     with st.expander(
         f"💸 Paid before the invoice arrived — {len(pre):,} payments, £{pre['net_amount'].sum() / 1e6:.1f}M",
-        expanded=True,
     ):
         st.markdown(
             "The council paid before the invoice was formally issued. "
@@ -387,12 +410,11 @@ with tab_flags:
         st.markdown(
             "Payments clustering just *below* significant procurement thresholds can sometimes "
             "indicate amounts being kept deliberately low to avoid additional scrutiny or process. "
-            "The two thresholds used here are: **£10,000** (a commonly cited minor procurement "
+            "The two thresholds used here are **£10,000** (a commonly cited minor procurement "
             "threshold at UK councils) and **£213,477** (the statutory UK public tender threshold "
-            "for councils under the Procurement Act 2023, above which contracts must be openly "
-            "advertised). RBWM's own internal approval tiers are not publicly available online — "
-            "their Contract Procedure Rules would need to be requested via FOI to confirm the "
-            "exact levels."
+            "under the Procurement Act 2023, above which contracts must be openly advertised). "
+            "RBWM's own internal approval tiers are not publicly available — their Contract "
+            "Procedure Rules would need to be requested via FOI to confirm the exact levels."
         )
         if not ts.empty:
             st.dataframe(
@@ -410,34 +432,6 @@ with tab_flags:
                 use_container_width=True,
                 hide_index=True,
             )
-
-    # Dissolved companies
-    dissolved = load_flag("dissolved_companies")
-    if not dissolved.empty:
-        verified = dissolved[
-            dissolved.get("cessation_verified", pd.Series(False, index=dissolved.index)) == True
-        ]
-        with st.expander(f"🔴 Payments to dissolved companies — {len(verified)} confirmed"):
-            st.markdown(
-                "These suppliers received payments *after* their registered dissolution date on Companies House."
-            )
-            if not verified.empty:
-                show_v = verified[["supplier", "ch_status", "date_of_cessation", "post_dissolution_spend"]].copy()
-                show_v["date_of_cessation"] = pd.to_datetime(show_v["date_of_cessation"]).dt.strftime("%d/%m/%Y")
-                st.dataframe(
-                    show_v.rename(columns={
-                        "supplier": "Supplier",
-                        "ch_status": "Status",
-                        "date_of_cessation": "Dissolved On",
-                        "post_dissolution_spend": "Paid After (£)",
-                    }).style.format({"Paid After (£)": "£{:,.0f}"}),
-                    use_container_width=True,
-                    hide_index=True,
-                )
-                st.caption(
-                    "📋 We have submitted formal information requests to RBWM about "
-                    "Vivid Resourcing Ltd and Barkland Tree Specialists and are awaiting their response."
-                )
 
     # Director crossover
     crossover = load_flag("director_crossover")
@@ -480,6 +474,80 @@ with tab_flags:
                 use_container_width=True,
                 hide_index=True,
             )
+
+# ─────────────────────────────────────────────────────────────────────────────
+# KEY FINDINGS
+# ─────────────────────────────────────────────────────────────────────────────
+
+st.divider()
+
+st.markdown("### What the data reveals")
+st.markdown(
+    "Three years of payment records cross-referenced against Companies House surface "
+    "two findings that every Windsor & Maidenhead resident should know about."
+)
+
+col_a, col_b = st.columns(2)
+
+with col_a:
+    st.error(
+        f"**Optalis — £{optalis_total / 1e6:.0f}M paid, rated 'high risk' by RBWM's own auditors**\n\n"
+        "RBWM owns 50% of Optalis and pays it ~£35M a year to run adult social care. "
+        "Its own internal audit formally rated Optalis **'high risk'**, finding:\n\n"
+        "*\"The finances were managed with a lack of transparency — the council are unable to "
+        "easily identify and challenge any overspends.\"*\n\n"
+        "*\"There is no evidence that any RBWM council board or committee applies an appropriate "
+        "level of scrutiny to the company's accounts.\"*\n\n"
+        "Optalis has net assets of **£66,000** on £57M turnover. Its own website states: "
+        "*\"Procurement and tender procedures and reports — We currently don't have any.\"* "
+        "Despite identical legal obligations to the council under the Freedom of Information Act, "
+        "it publishes no supplier payments, no contract register, and no director pay."
+    )
+
+with col_b:
+    st.error(
+        "**£1.7M paid to companies that were legally dissolved**\n\n"
+        "Cross-referencing payments against Companies House found suppliers that continued "
+        "receiving public money after being formally struck off the register:\n\n"
+        "• **Vivid Resourcing Ltd** — dissolved 30 Jan 2024. 564 further payments worth "
+        "**£958k** followed over the next 15 months.\n\n"
+        "• **Barkland Tree Specialists** — dissolved in 2011. Payments continued until at "
+        "least 2025, totalling **£706k** after dissolution.\n\n"
+        "Three further suppliers in active liquidation received a combined **£3.1M** "
+        "while winding up. Formal FOI requests have been submitted."
+    )
+
+st.caption(
+    "These findings are based on public data. They are not evidence of wrongdoing — "
+    "there may be explanations. They are questions the council should be able to answer."
+)
+
+with st.expander("Optalis vs Achieving for Children — a transparency comparison"):
+    st.markdown(
+        f"Both Optalis and Achieving for Children (AfC) are arm's-length bodies created by RBWM. "
+        f"Both are public authorities under the FOI Act. RBWM has paid AfC **£{afc_total / 1e6:.0f}M** "
+        f"and Optalis **£{optalis_total / 1e6:.0f}M** since April 2023."
+    )
+
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Optalis turnover", "£57.6M")
+    col2.metric("Optalis net assets", "£66,000")
+    col3.metric("Optalis operating profit", "£8,000")
+
+    transparency = {
+        "": ["Achieving for Children", "Optalis"],
+        "Supplier payments published": ["✅ Yes (back to 2018)", "❌ No"],
+        "Contract register": ["✅ Partial", "❌ No"],
+        "Director pay disclosed": ["✅ Yes", "❌ No"],
+        "Procurement policy": ["✅ Published", "❌ \"We currently don't have any\""],
+        "Annual accounts length": ["103 pages", "27 pages"],
+        "Internal audit rating": ["Not flagged", "🔴 High risk"],
+        "RBWM ownership": ["20%", "50%"],
+    }
+    st.dataframe(
+        pd.DataFrame(transparency).set_index(""),
+        use_container_width=True,
+    )
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.divider()
