@@ -1,0 +1,30 @@
+{
+  "supplier": "Comfort Care Services (UK) Ltd",
+  "legal_name_searched": "Comfort Care Services (UK) Ltd",
+  "ch_found": true,
+  "ch_name": "COMFORT CARE SERVICES (UK) LTD",
+  "company_number": "05153873",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2004-06-15",
+  "company_type": "ltd",
+  "registered_address": "Unit 2 Progress Business Centre, Whittle Parkway, Slough, SL1 6DQ, England",
+  "sic_codes": [
+    "87300"
+  ],
+  "sic_description": "87300",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Ali Raza Sattar",
+    "Mr Abdul Sattar"
+  ],
+  "director_names": [
+    "CHOUDHRY, Muryum",
+    "SATTAR, Abdul",
+    "SATTAR, Ali Raza"
+  ],
+  "director_count": 3
+}

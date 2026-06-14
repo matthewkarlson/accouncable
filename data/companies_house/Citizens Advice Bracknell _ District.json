@@ -1,0 +1,32 @@
+{
+  "supplier": "Citizens Advice Bracknell & District",
+  "legal_name_searched": "Citizens Advice Bracknell & District",
+  "ch_found": true,
+  "ch_name": "CITIZENS ADVICE EAST BERKSHIRE LIMITED",
+  "company_number": "03433043",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1997-09-12",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "The Columbia Centre Lower Ground Floor, Market Street, Bracknell, RG12 1JG, United Kingdom",
+  "sic_codes": [
+    "88990"
+  ],
+  "sic_description": "88990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "EGAN, Elizabeth Vivienne",
+    "JACKMAN-CLARKE, Lewis Stuart",
+    "MCVIE, Suzanne Jayne",
+    "O'NEAL, Diane",
+    "REYNOLDS, Paul Geoffrey",
+    "STANDBRIDGE, Hazel Carol",
+    "THORPE, Penny",
+    "WRAY, Simon"
+  ],
+  "director_count": 8
+}

@@ -1,0 +1,30 @@
+{
+  "supplier": "Marlborough Highways Limited",
+  "legal_name_searched": "Marlborough Highways Limited",
+  "ch_found": true,
+  "ch_name": "MARLBOROUGH HIGHWAYS LIMITED",
+  "company_number": "02765630",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1992-11-18",
+  "company_type": "ltd",
+  "registered_address": "Woolf House Eagle Way, Chelmsford Garden, Chelmsford, CM3 3FY, England",
+  "sic_codes": [
+    "42110"
+  ],
+  "sic_description": "42110",
+  "accounts_overdue": false,
+  "is_council_controlled": true,
+  "psc_names": [
+    "Marlborough Highways Group Limited"
+  ],
+  "director_names": [
+    "BLOSTONE, William David",
+    "REVELL, Joseph Anthony",
+    "REVELL, Matthew James",
+    "WOOLF, John"
+  ],
+  "director_count": 4
+}

@@ -1,0 +1,30 @@
+{
+  "supplier": "H Plus Care Ltd ta Larchfield Nursing Home",
+  "legal_name_searched": "H Plus Care Ltd",
+  "ch_found": true,
+  "ch_name": "H PLUS CARE LTD",
+  "company_number": "05736767",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2006-03-09",
+  "company_type": "ltd",
+  "registered_address": "5th Floor 37 High Holborn, London, WC1V 6AA, England",
+  "sic_codes": [
+    "87100"
+  ],
+  "sic_description": "87100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "D M D Productions Limited",
+    "Mr Rohan Patel",
+    "Mr Mitul Jay Patel"
+  ],
+  "director_names": [
+    "SHAH, Arvind Raichand",
+    "YIP, Nathalie"
+  ],
+  "director_count": 2
+}

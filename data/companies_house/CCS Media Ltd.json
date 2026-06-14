@@ -1,0 +1,32 @@
+{
+  "supplier": "CCS Media Ltd",
+  "legal_name_searched": "CCS Media Ltd",
+  "ch_found": true,
+  "ch_name": "ADVANIA UK (CCS) LIMITED",
+  "company_number": "04418144",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2002-04-16",
+  "company_type": "ltd",
+  "registered_address": "Lowry Mill Lees Street, Swinton, Manchester, M27 6DB, England",
+  "sic_codes": [
+    "62090",
+    "70100"
+  ],
+  "sic_description": "62090, 70100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ccs Media Holdings Limited",
+    "Strange Cargo Limited",
+    "Mr Robert Tomlinson"
+  ],
+  "director_names": [
+    "COOKE, Anthony",
+    "HARRIS, Sabrina",
+    "VIMPANY, Richard John"
+  ],
+  "director_count": 3
+}

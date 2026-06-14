@@ -1,0 +1,28 @@
+{
+  "supplier": "Browns Community Services CIC",
+  "legal_name_searched": "Browns Community Services CIC",
+  "ch_found": true,
+  "ch_name": "BROWNS COMMUNITY SERVICES CIC",
+  "company_number": "09919513",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-12-16",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "Rourke House Watermans Business Park, The Causeway, Staines-Upon-Thames, TW18 3BA, England",
+  "sic_codes": [
+    "88990"
+  ],
+  "sic_description": "88990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Angeline Gore"
+  ],
+  "director_names": [
+    "GORE, Angeline",
+    "KHAN, Sobia"
+  ],
+  "director_count": 2
+}

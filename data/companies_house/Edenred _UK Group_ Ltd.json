@@ -1,0 +1,33 @@
+{
+  "supplier": "Edenred (UK Group) Ltd",
+  "legal_name_searched": "Edenred (UK Group) Ltd",
+  "ch_found": true,
+  "ch_name": "EDENRED (UK GROUP) LIMITED",
+  "company_number": "00540144",
+  "match_confidence": "high",
+  "ch_status": "liquidation",
+  "is_suspicious_status": true,
+  "date_of_cessation": null,
+  "incorporated": "1954-11-04",
+  "company_type": "ltd",
+  "registered_address": "11th Floor, Landmark St Peter's Square, 1, Oxford Street, Manchester, M1 4PB",
+  "sic_codes": [
+    "70100",
+    "82990"
+  ],
+  "sic_description": "70100, 82990",
+  "accounts_overdue": true,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Edenred Italia Srl",
+    "Edenred Se"
+  ],
+  "director_names": [
+    "DUFOUR, Stephane Philippe",
+    "AFLALO, Thierry",
+    "BURNS, Nicholas Mackenzie Herbert",
+    "DUFOUR, Stephane Philippe",
+    "RELLAND-BERNARD, Philippe Marc Francis"
+  ],
+  "director_count": 5
+}

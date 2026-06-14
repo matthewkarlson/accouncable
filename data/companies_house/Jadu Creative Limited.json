@@ -1,0 +1,29 @@
+{
+  "supplier": "Jadu Creative Limited",
+  "legal_name_searched": "Jadu Creative Limited",
+  "ch_found": true,
+  "ch_name": "JADU CREATIVE LIMITED",
+  "company_number": "08538777",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2013-05-21",
+  "company_type": "ltd",
+  "registered_address": "Suite 203 Bedford Heights, Brickhill Drive, Bedford, MK41 7PH, England",
+  "sic_codes": [
+    "90030"
+  ],
+  "sic_description": "90030",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Jadu Limited"
+  ],
+  "director_names": [
+    "GREENSMITH, Michael Charles",
+    "HUGHES, Richard Gareth",
+    "ORMONDROYD, James Andrew"
+  ],
+  "director_count": 3
+}

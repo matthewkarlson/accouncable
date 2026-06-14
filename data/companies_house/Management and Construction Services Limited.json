@@ -1,0 +1,29 @@
+{
+  "supplier": "Management and Construction Services Limited",
+  "legal_name_searched": "Management and Construction Services Limited",
+  "ch_found": true,
+  "ch_name": "CALKIN CONSTRUCTION AND PROJECT MANAGEMENT SERVICES LTD",
+  "company_number": "07735216",
+  "match_confidence": "low",
+  "ch_status": "liquidation",
+  "is_suspicious_status": true,
+  "date_of_cessation": null,
+  "incorporated": "2011-08-10",
+  "company_type": "ltd",
+  "registered_address": "Search House, Charnham Lane, Hungerford, RG17 0EY, United Kingdom",
+  "sic_codes": [
+    "43999"
+  ],
+  "sic_description": "43999",
+  "accounts_overdue": true,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Kelly-Anne King",
+    "Mr Nicholas John Calkin",
+    "Mr Trevor Leslie Calkin"
+  ],
+  "director_names": [
+    "CALKIN, Trevor Leslie"
+  ],
+  "director_count": 1
+}

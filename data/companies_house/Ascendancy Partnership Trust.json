@@ -1,0 +1,40 @@
+{
+  "supplier": "Ascendancy Partnership Trust",
+  "legal_name_searched": "Ascendancy Partnership Trust",
+  "ch_found": true,
+  "ch_name": "ASCENDANCY PARTNERSHIP TRUST",
+  "company_number": "15033276",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2023-07-27",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "Manor Green School, Elizabeth Hawkes Way, Maidenhead, SL6 3EQ, England",
+  "sic_codes": [
+    "85100",
+    "85200",
+    "85310"
+  ],
+  "sic_description": "85100, 85200, 85310",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Fiona O'Donnell",
+    "Mr Edward Arthur Stevens",
+    "Dame Marcia Anne Twelftree",
+    "Mr Robert Posner",
+    "Ms Claire Louise Denning"
+  ],
+  "director_names": [
+    "CARTER, Penny",
+    "GILLARD, Corrina",
+    "HAWKES, Sarah Katherine",
+    "HOLLAND, Julie",
+    "PELLY, Richard",
+    "SEARLE, Cecile",
+    "SHATTOCK, Jonathan Ross",
+    "TISSOT DEMIDOFF, Catherine, Professor"
+  ],
+  "director_count": 8
+}

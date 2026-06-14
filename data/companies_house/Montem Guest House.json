@@ -1,0 +1,27 @@
+{
+  "supplier": "Montem Guest House",
+  "legal_name_searched": "Montem Guest House",
+  "ch_found": true,
+  "ch_name": "AAA1 GUEST HOUSE LIMITED",
+  "company_number": "12888910",
+  "match_confidence": "low",
+  "ch_status": "dissolved",
+  "is_suspicious_status": true,
+  "date_of_cessation": "2026-02-24",
+  "incorporated": "2020-09-18",
+  "company_type": "ltd",
+  "registered_address": "4 College Street, Cleethorpes, DN35 8BW, England",
+  "sic_codes": [
+    "55100"
+  ],
+  "sic_description": "55100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Stephen Hutson"
+  ],
+  "director_names": [
+    "HUTSON, Stephen"
+  ],
+  "director_count": 1
+}

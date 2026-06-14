@@ -1,0 +1,28 @@
+{
+  "supplier": "The Address Management Ltd",
+  "legal_name_searched": "The Address Management Ltd",
+  "ch_found": true,
+  "ch_name": "THE ADDRESS MANAGEMENT LTD",
+  "company_number": "09632182",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-06-10",
+  "company_type": "ltd",
+  "registered_address": "Cranbourne House, 135 Bath Road, Slough, SL1 3UX, England",
+  "sic_codes": [
+    "74909"
+  ],
+  "sic_description": "74909",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Miss Lina Pankhania"
+  ],
+  "director_names": [
+    "BHAMBRA, Ashmi Kaur",
+    "PANKHANIA, Lina"
+  ],
+  "director_count": 2
+}

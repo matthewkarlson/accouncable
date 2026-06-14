@@ -1,0 +1,32 @@
+{
+  "supplier": "Loving Angels Care Limited",
+  "legal_name_searched": "Loving Angels Care Limited",
+  "ch_found": true,
+  "ch_name": "NORTH NORTHAMPTONSHIRE HOME CARE LTD",
+  "company_number": "12626926",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2020-05-27",
+  "company_type": "ltd",
+  "registered_address": "3 Westbury Court, Anglia Way, Northampton, NN3 6JA, United Kingdom",
+  "sic_codes": [
+    "85600",
+    "88100"
+  ],
+  "sic_description": "85600, 88100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Miss Anouska Stoncel",
+    "Mrs Ruvarashe Matsekeza",
+    "Mr David Tinaye Matsekeza",
+    "Mr Kyle Aaron Pacey-Vigo"
+  ],
+  "director_names": [
+    "MATSEKEZA, Ruvarashe",
+    "STONCEL, Anouska"
+  ],
+  "director_count": 2
+}

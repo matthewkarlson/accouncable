@@ -1,0 +1,31 @@
+{
+  "supplier": "Enlightenment Care Services Ltd",
+  "legal_name_searched": "Enlightenment Care Services Ltd",
+  "ch_found": true,
+  "ch_name": "ENLIGHTENMENT CARE SERVICES LTD",
+  "company_number": "09359571",
+  "match_confidence": "exact",
+  "ch_status": "liquidation",
+  "is_suspicious_status": true,
+  "date_of_cessation": null,
+  "incorporated": "2014-12-17",
+  "company_type": "ltd",
+  "registered_address": "C/O CG & CO, 27 Byrom Street, Manchester, M3 4PF",
+  "sic_codes": [
+    "78200",
+    "87900"
+  ],
+  "sic_description": "78200, 87900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Annah Kwambana",
+    "Sydney Kwambana",
+    "Mr Sydney Tashinga Kwambana"
+  ],
+  "director_names": [
+    "KWAMBANA, Annah",
+    "KWAMBANA, Sydney"
+  ],
+  "director_count": 2
+}

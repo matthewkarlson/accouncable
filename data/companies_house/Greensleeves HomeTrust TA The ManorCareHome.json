@@ -1,0 +1,27 @@
+{
+  "supplier": "Greensleeves HomeTrust TA The ManorCareHome",
+  "legal_name_searched": "Greensleeves HomeTrust TA The ManorCareHome",
+  "ch_found": true,
+  "ch_name": "ADAM WELLER T/A GREENSLEEVES LIMITED",
+  "company_number": "10614798",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-02-13",
+  "company_type": "ltd",
+  "registered_address": "8 Halley View, Selsey, PO20 0FL, United Kingdom",
+  "sic_codes": [
+    "96090"
+  ],
+  "sic_description": "96090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Adam Weller"
+  ],
+  "director_names": [
+    "WELLER, Adam"
+  ],
+  "director_count": 1
+}

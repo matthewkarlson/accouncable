@@ -1,0 +1,31 @@
+{
+  "supplier": "Bupa Care Services Commissioning Limited",
+  "legal_name_searched": "Bupa Care Services Commissioning Limited",
+  "ch_found": true,
+  "ch_name": "BUPA CARE SERVICES (COMMISSIONING) LIMITED",
+  "company_number": "03333791",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1997-03-14",
+  "company_type": "ltd",
+  "registered_address": "1 Angel Court, London, EC2R 7HJ, United Kingdom",
+  "sic_codes": [
+    "86900"
+  ],
+  "sic_description": "86900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Bupa Care Homes (Ans) Limited",
+    "Bupa Care Homes Group Limited",
+    "Bupa Care Homes (Cfg) Plc"
+  ],
+  "director_names": [
+    "BARKER, Neil Stephen",
+    "HOOSEN-WEBBER, Thomas Nichol",
+    "WATON, Aileen"
+  ],
+  "director_count": 3
+}

@@ -1,0 +1,28 @@
+{
+  "supplier": "Care Uk Community Partnerships Ltd",
+  "legal_name_searched": "Care Uk Community Partnerships Ltd",
+  "ch_found": true,
+  "ch_name": "CARE UK COMMUNITY PARTNERSHIPS LTD",
+  "company_number": "02644862",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1991-09-11",
+  "company_type": "ltd",
+  "registered_address": "5 Churchill Place, 10th Floor, London, E14 5HU, United Kingdom",
+  "sic_codes": [
+    "87300"
+  ],
+  "sic_description": "87300",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Care Uk Limited"
+  ],
+  "director_names": [
+    "ISRAR, Qasim Raza",
+    "MANRIQUE CHARRO, Jorge"
+  ],
+  "director_count": 2
+}

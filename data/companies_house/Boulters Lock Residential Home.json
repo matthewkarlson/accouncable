@@ -1,0 +1,31 @@
+{
+  "supplier": "Boulters Lock Residential Home",
+  "legal_name_searched": "Boulters Lock Residential Home",
+  "ch_found": true,
+  "ch_name": "BAMFORD CARE HOMES LIMITED",
+  "company_number": "03709021",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1999-02-05",
+  "company_type": "ltd",
+  "registered_address": "Plym House 3 Longbridge Road, Marsh Mills, Plymouth, PL6 8LT, United Kingdom",
+  "sic_codes": [
+    "86900"
+  ],
+  "sic_description": "86900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Sheila May Jeffrey",
+    "Mr Michael Jeffrey"
+  ],
+  "director_names": [
+    "JEFFREY, Sheila May",
+    "JEFFREY, Mark",
+    "JEFFREY, Michael Arthur",
+    "JEFFREY, Sheila May"
+  ],
+  "director_count": 4
+}

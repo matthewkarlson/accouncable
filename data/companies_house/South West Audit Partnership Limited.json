@@ -1,0 +1,30 @@
+{
+  "supplier": "South West Audit Partnership Limited",
+  "legal_name_searched": "South West Audit Partnership Limited",
+  "ch_found": true,
+  "ch_name": "SOUTH WEST AUDIT PARTNERSHIP LIMITED",
+  "company_number": "08215338",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2012-09-14",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "Ground Floor, Blackbrook Gate One, Blackbrook Business Park, Taunton, TA1 2PX, England",
+  "sic_codes": [
+    "69201"
+  ],
+  "sic_description": "69201",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "GUNN, Christopher",
+    "CLARKE, Richard Daniel",
+    "CRABTREE, Karen Ruth",
+    "MCDOWELL, Elizabeth Niles",
+    "SJOGREN, Nicholas Mark",
+    "STONE, Louise Brigette"
+  ],
+  "director_count": 6
+}

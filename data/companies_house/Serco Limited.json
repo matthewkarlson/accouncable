@@ -1,0 +1,32 @@
+{
+  "supplier": "Serco Limited",
+  "legal_name_searched": "Serco Limited",
+  "ch_found": true,
+  "ch_name": "SERCO LIMITED",
+  "company_number": "00242246",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1929-09-10",
+  "company_type": "ltd",
+  "registered_address": "Serco House, 16 Bartley Wood Business Park, Bartley Way Hook, RG27 9UY",
+  "sic_codes": [
+    "70100",
+    "70229",
+    "72190",
+    "84110"
+  ],
+  "sic_description": "70100, 70229, 72190, 84110",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Serco Holdings Limited"
+  ],
+  "director_names": [
+    "MILLER, Amanda",
+    "STACEY, Shaun Raymond",
+    "WALTERS, Fiona Mairi"
+  ],
+  "director_count": 3
+}

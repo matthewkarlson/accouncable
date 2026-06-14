@@ -1,0 +1,27 @@
+{
+  "supplier": "Park House Nursery & PreSchool",
+  "legal_name_searched": "Park House Nursery & PreSchool",
+  "ch_found": true,
+  "ch_name": "MAY HOUSE NURSERY & PRESCHOOL LTD",
+  "company_number": "15423535",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2024-01-18",
+  "company_type": "ltd",
+  "registered_address": "32 Queens Gardens, Hounslow, TW5 9DB, England",
+  "sic_codes": [
+    "88910"
+  ],
+  "sic_description": "88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Miss Zahra May Rizzy"
+  ],
+  "director_names": [
+    "RIZZY, Zahra May"
+  ],
+  "director_count": 1
+}

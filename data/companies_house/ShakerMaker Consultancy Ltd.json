@@ -1,0 +1,28 @@
+{
+  "supplier": "ShakerMaker Consultancy Ltd",
+  "legal_name_searched": "ShakerMaker Consultancy Ltd",
+  "ch_found": true,
+  "ch_name": "SHAKERMAKER CONSULTANCY LTD",
+  "company_number": "10910701",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-08-11",
+  "company_type": "ltd",
+  "registered_address": "The White Cottage, Parkers Lane, Bracknell, RG42 6LE, United Kingdom",
+  "sic_codes": [
+    "96090"
+  ],
+  "sic_description": "96090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Nicholas Palmer",
+    "Mrs Tracey Anne Palmer"
+  ],
+  "director_names": [
+    "PALMER, Tracey Anne"
+  ],
+  "director_count": 1
+}

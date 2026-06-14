@@ -1,0 +1,30 @@
+{
+  "supplier": "Momentum Build (NW) LTD",
+  "legal_name_searched": "Momentum Build (NW) LTD",
+  "ch_found": true,
+  "ch_name": "MOMENTUM BUILD (NW) LTD",
+  "company_number": "11383116",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2018-05-25",
+  "company_type": "ltd",
+  "registered_address": "1st Floor One Temple Square, 24 Dale Street, Liverpool, L2 5RL, England",
+  "sic_codes": [
+    "41100"
+  ],
+  "sic_description": "41100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Momentum Group (Nw) Ltd",
+    "Mr Christopher Renshaw",
+    "Mr Christopher James Bliss"
+  ],
+  "director_names": [
+    "BLISS, Christopher James",
+    "RENSHAW, Christopher"
+  ],
+  "director_count": 2
+}

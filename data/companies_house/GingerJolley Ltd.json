@@ -1,0 +1,29 @@
+{
+  "supplier": "GingerJolley Ltd",
+  "legal_name_searched": "GingerJolley Ltd",
+  "ch_found": true,
+  "ch_name": "GINGERJOLLEY LTD",
+  "company_number": "11562633",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2018-09-11",
+  "company_type": "ltd",
+  "registered_address": "16 Woodlands Park Road, Maidenhead, SL6 3NW, United Kingdom",
+  "sic_codes": [
+    "88910"
+  ],
+  "sic_description": "88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Jennifer Louise Jolley",
+    "Mrs Katherine Jayne Abrams"
+  ],
+  "director_names": [
+    "ABRAMS, Katherine Jayne",
+    "JOLLEY, Jennifer Louise"
+  ],
+  "director_count": 2
+}

@@ -1,0 +1,28 @@
+{
+  "supplier": "Oak Services Limited",
+  "legal_name_searched": "Oak Services Limited",
+  "ch_found": true,
+  "ch_name": "OAK SERVICES LIMITED",
+  "company_number": "02747808",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1992-09-16",
+  "company_type": "ltd",
+  "registered_address": "First Floor Bellamy House, Winton Road, Petersfield, GU32 3HA, England",
+  "sic_codes": [
+    "41201"
+  ],
+  "sic_description": "41201",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Eric Francis Pilgrim",
+    "Mr Richard William Lucas"
+  ],
+  "director_names": [
+    "PILGRIM, Eric Francis"
+  ],
+  "director_count": 1
+}

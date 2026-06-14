@@ -1,0 +1,36 @@
+{
+  "supplier": "EDF Energy Customers PLC",
+  "legal_name_searched": "EDF Energy Customers PLC",
+  "ch_found": true,
+  "ch_name": "EDF ENERGY CUSTOMERS LIMITED",
+  "company_number": "02228297",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1988-03-08",
+  "company_type": "ltd",
+  "registered_address": "Nova North, 11 Bressenden Place, London, SW1E 5BY, England",
+  "sic_codes": [
+    "35130",
+    "35220"
+  ],
+  "sic_description": "35130, 35220",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Edf Energy Limited",
+    "Edf Energy Investments"
+  ],
+  "director_names": [
+    "ROBERTSON, Romana",
+    "ALLEN, Tobias",
+    "BOASE, Emily",
+    "COMMARET, Philippe Andre Dominique",
+    "DALLEY, Christopher",
+    "HOLMES, Kaa Stuart",
+    "HUMPHREY, Ceri",
+    "ROBERTS, Niels Roy"
+  ],
+  "director_count": 8
+}

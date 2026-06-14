@@ -1,0 +1,35 @@
+{
+  "supplier": "Forest Bridge School Ltd",
+  "legal_name_searched": "Forest Bridge School Ltd",
+  "ch_found": true,
+  "ch_name": "FOREST BRIDGE SCHOOL LTD",
+  "company_number": "08872579",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2014-02-03",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "Forest Bridge School Braywick Road, Braywick Park, Maidenhead, SL6 1BN, England",
+  "sic_codes": [
+    "85590"
+  ],
+  "sic_description": "85590",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "AYLING, Richard Lyndon",
+    "D'ARCY-DARLING, Sammy Lee",
+    "DADSON-BUTT, Ashleigh Dawn Louize",
+    "FARNDEN, Elizabeth Elvira",
+    "JENKIN, Royston John",
+    "MARSALA, Isabel",
+    "MOHANARAJAH, Jeanitha Priscilla",
+    "MOORE, Helene Angela",
+    "RADCLIFFE, Naomi Elizabeth",
+    "STEVENS, Nicholas",
+    "WALKER, Sarah Elizabeth"
+  ],
+  "director_count": 11
+}

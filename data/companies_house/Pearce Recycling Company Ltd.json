@@ -1,0 +1,31 @@
+{
+  "supplier": "Pearce Recycling Company Ltd",
+  "legal_name_searched": "Pearce Recycling Company Ltd",
+  "ch_found": true,
+  "ch_name": "TIMBERPAK PEARCE LIMITED",
+  "company_number": "01105882",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1973-04-02",
+  "company_type": "ltd",
+  "registered_address": "Pearce House, Acrewood Way, St Albans, AL4 0JY",
+  "sic_codes": [
+    "38110",
+    "38320"
+  ],
+  "sic_description": "38110, 38320",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Pearce Holdings St Albans"
+  ],
+  "director_names": [
+    "BERRIDGE, Andrew Christopher",
+    "HAYTON, Mark",
+    "PEARCE, Simon Michael",
+    "STEINLECHNER, Bernd"
+  ],
+  "director_count": 4
+}

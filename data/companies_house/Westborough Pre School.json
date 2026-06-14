@@ -1,0 +1,29 @@
+{
+  "supplier": "Westborough Pre School",
+  "legal_name_searched": "Westborough Pre School",
+  "ch_found": true,
+  "ch_name": "55 & 55A WESTBOROUGH RD (FREEHOLD) LIMITED",
+  "company_number": "13478240",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2021-06-25",
+  "company_type": "ltd",
+  "registered_address": "55a Westborough Road, Westcliff-On-Sea, SS0 9DP, England",
+  "sic_codes": [
+    "98000"
+  ],
+  "sic_description": "98000",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Neil Burrell",
+    "Ms Emma Jayne Varney"
+  ],
+  "director_names": [
+    "BURRELL, Neil",
+    "VARNEY, Emma Jayne"
+  ],
+  "director_count": 2
+}

@@ -1,0 +1,27 @@
+{
+  "supplier": "MKM13 Sewa Ltd t/a Kare Plus Windsor Homecare",
+  "legal_name_searched": "MKM13 Sewa Ltd",
+  "ch_found": true,
+  "ch_name": "MKM13 SEWA LIMITED",
+  "company_number": "12264422",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2019-10-16",
+  "company_type": "ltd",
+  "registered_address": "Room G1,Dorney House Business Centre 46-48a,High Street, Burnham, Slough, SL1 7JP, England",
+  "sic_codes": [
+    "86900"
+  ],
+  "sic_description": "86900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Mayanka Chaudhary"
+  ],
+  "director_names": [
+    "CHAUDHARY, Mayanka"
+  ],
+  "director_count": 1
+}

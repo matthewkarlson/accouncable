@@ -1,0 +1,38 @@
+{
+  "supplier": "CFH Docmail Limited",
+  "legal_name_searched": "CFH Docmail Limited",
+  "ch_found": true,
+  "ch_name": "CFH DOCMAIL LTD",
+  "company_number": "01716891",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1983-04-21",
+  "company_type": "ltd",
+  "registered_address": "St Peter's Park, Wells Road Radstock, Bath Somerset, BA3 3UP",
+  "sic_codes": [
+    "18129",
+    "53201",
+    "62012",
+    "63110"
+  ],
+  "sic_description": "18129, 53201, 62012, 63110",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Cfh Tradeco Limited",
+    "Cfh Holdco Limited",
+    "Mr David Vincent Broadway",
+    "Mrs Karen Broadway"
+  ],
+  "director_names": [
+    "CRAY, Stephen Patrick",
+    "HARWOOD, Adam Michael",
+    "HELPS, Joanne Louise",
+    "KNOWLES, Bryan Joseph",
+    "MARSH, Jonathan Lacey",
+    "MCFEDRIES, William"
+  ],
+  "director_count": 6
+}

@@ -1,0 +1,31 @@
+{
+  "supplier": "Twinkle Totz Day Nursery Ltd Datchet",
+  "legal_name_searched": "Twinkle Totz Day Nursery Ltd Datchet",
+  "ch_found": true,
+  "ch_name": "TWINKLE TOTZ DAY NURSERY LIMITED",
+  "company_number": "06468251",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2008-01-09",
+  "company_type": "ltd",
+  "registered_address": "Islip Manor Children's Centre, Eastecote Lane, Northolt, UB5 5RQ, United Kingdom",
+  "sic_codes": [
+    "88910"
+  ],
+  "sic_description": "88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Jovir Singh Dhillon",
+    "Miss Guneit Kaur Dhillon",
+    "Mr Sukhwinder Singh",
+    "Mrs Susan Kaur Dhillon"
+  ],
+  "director_names": [
+    "SINGH, Sukhwinder",
+    "DHILLON, Susan Kaur"
+  ],
+  "director_count": 2
+}

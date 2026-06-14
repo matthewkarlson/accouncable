@@ -1,0 +1,31 @@
+{
+  "supplier": "Permanent Futures Ltd",
+  "legal_name_searched": "Permanent Futures Ltd",
+  "ch_found": true,
+  "ch_name": "PERMANENT FUTURES LIMITED",
+  "company_number": "04430310",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2002-05-02",
+  "company_type": "ltd",
+  "registered_address": "19 New Street Horsforth, Leeds, LS18 4BH, England",
+  "sic_codes": [
+    "82990"
+  ],
+  "sic_description": "82990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Permanent Futures Holdings Limited",
+    "Mr Thomas Liptrot",
+    "Mr David Ian House"
+  ],
+  "director_names": [
+    "LIPTROT, James Bernard",
+    "PANESAR, Heena",
+    "RYAN, Thomas Jay"
+  ],
+  "director_count": 3
+}

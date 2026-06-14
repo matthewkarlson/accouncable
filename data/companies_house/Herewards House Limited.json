@@ -1,0 +1,34 @@
+{
+  "supplier": "Herewards House Limited",
+  "legal_name_searched": "Herewards House Limited",
+  "ch_found": true,
+  "ch_name": "HEREWARDS HOUSE LTD",
+  "company_number": "09123334",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2014-07-09",
+  "company_type": "ltd",
+  "registered_address": "Herewards House, 15 Ray Park Avenue, Maidenhead, SL6 8DP",
+  "sic_codes": [
+    "86102"
+  ],
+  "sic_description": "86102",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Sangeeta Rukunny",
+    "Mr Bolah Rukunny",
+    "Mrs Dhanwantee Seegoolam",
+    "Mr Bedanan Seegoolam",
+    "Bbsd Care Homes Ltd",
+    "Mr Bolah Rukunny",
+    "Mrs Sangeeta Rukunny"
+  ],
+  "director_names": [
+    "RUKUNNY, Bolah",
+    "RUKUNNY, Sangeeta"
+  ],
+  "director_count": 2
+}

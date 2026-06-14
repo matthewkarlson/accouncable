@@ -1,0 +1,34 @@
+{
+  "supplier": "Leisure Energy Ltd",
+  "legal_name_searched": "Leisure Energy Ltd",
+  "ch_found": true,
+  "ch_name": "LEISURE ENERGY LTD",
+  "company_number": "08938136",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2014-03-13",
+  "company_type": "ltd",
+  "registered_address": "Leisure Energy Technology Centre, Units 6, 7, 8 Site 8, Gemini Business Park, Walter Nash Road, Kidderminster, DY11 7HJ, England",
+  "sic_codes": [
+    "43999"
+  ],
+  "sic_description": "43999",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Neil David Bland",
+    "Clarkson Alliance Project Management Limited",
+    "Dr Robert Miles Hardwick",
+    "Mr Graham Neil Clarkson"
+  ],
+  "director_names": [
+    "ARDIS, Michael Lewis",
+    "BLAND, Neil David",
+    "CLARKSON, Graham Neil",
+    "ROWLAND, Georgina Claire",
+    "WORSNOP, Michael Francis"
+  ],
+  "director_count": 5
+}

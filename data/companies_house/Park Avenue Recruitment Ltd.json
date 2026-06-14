@@ -1,0 +1,29 @@
+{
+  "supplier": "Park Avenue Recruitment Ltd",
+  "legal_name_searched": "Park Avenue Recruitment Ltd",
+  "ch_found": true,
+  "ch_name": "PARK AVENUE RECRUITMENT LIMITED",
+  "company_number": "10370450",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2016-09-12",
+  "company_type": "ltd",
+  "registered_address": "37-39 High Holborn, 3rd Floor, London, WC1V 6AA, United Kingdom",
+  "sic_codes": [
+    "82990"
+  ],
+  "sic_description": "82990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Ella Lamport",
+    "Mr Richard George Harris"
+  ],
+  "director_names": [
+    "HARRIS, Richard George",
+    "LAMPORT, Ella"
+  ],
+  "director_count": 2
+}

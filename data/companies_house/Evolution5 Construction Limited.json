@@ -1,0 +1,31 @@
+{
+  "supplier": "Evolution5 Construction Limited",
+  "legal_name_searched": "Evolution5 Construction Limited",
+  "ch_found": true,
+  "ch_name": "EVOLUTION5 CONSTRUCTION LIMITED",
+  "company_number": "10038350",
+  "match_confidence": "exact",
+  "ch_status": "liquidation",
+  "is_suspicious_status": true,
+  "date_of_cessation": null,
+  "incorporated": "2016-03-02",
+  "company_type": "ltd",
+  "registered_address": "Morris Crocker Lake House, 2 Port Way, Port Solent, Portsmouth, PO6 4TY, England",
+  "sic_codes": [
+    "43390"
+  ],
+  "sic_description": "43390",
+  "accounts_overdue": true,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Evolution5 Holdings Limited",
+    "Mr Jamie Neil Barrett",
+    "Evolution 5 Group Limited"
+  ],
+  "director_names": [
+    "BARRETT, Jamie Neil",
+    "CLARKE, Phil",
+    "DYER, Mark William"
+  ],
+  "director_count": 3
+}

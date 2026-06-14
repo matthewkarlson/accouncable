@@ -1,0 +1,33 @@
+{
+  "supplier": "The Dash Charity",
+  "legal_name_searched": "The Dash Charity",
+  "ch_found": true,
+  "ch_name": "THE DASH CHARITY",
+  "company_number": "06758907",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2008-11-26",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "551 Fairlie Road, Slough, SL1 4PY, England",
+  "sic_codes": [
+    "96090"
+  ],
+  "sic_description": "96090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "MAHMOOD, Bilquis Bano",
+    "CULLIMORE, Donna",
+    "FORSTER, Michelle",
+    "GOWER, Ginette Elizabeth",
+    "MAHMOOD, Bilquis Bano",
+    "ODUNEYE, Aderonke Gbeminiyi",
+    "PALASZ, Amy Louise",
+    "ROLLECKE, Denise Gemma",
+    "SIDHU, Narinder Pal Kaur"
+  ],
+  "director_count": 9
+}

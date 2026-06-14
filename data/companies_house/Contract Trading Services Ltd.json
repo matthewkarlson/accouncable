@@ -1,0 +1,32 @@
+{
+  "supplier": "Contract Trading Services Ltd",
+  "legal_name_searched": "Contract Trading Services Ltd",
+  "ch_found": true,
+  "ch_name": "CONTRACT TRADING SERVICES LIMITED",
+  "company_number": "03435002",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1997-09-16",
+  "company_type": "ltd",
+  "registered_address": "Unit 16 Metro Centre, Toutley Road, Wokingham, RG41 1QW",
+  "sic_codes": [
+    "41100",
+    "43999"
+  ],
+  "sic_description": "41100, 43999",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Colin Sidney Weston",
+    "Susan Weston"
+  ],
+  "director_names": [
+    "WESTON, Susan",
+    "KEEBLE, Zowie Suzanne",
+    "WESTON, Colin Sidney",
+    "WESTON, Wayne Richard"
+  ],
+  "director_count": 4
+}

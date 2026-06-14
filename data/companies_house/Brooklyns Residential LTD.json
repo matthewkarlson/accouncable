@@ -1,0 +1,27 @@
+{
+  "supplier": "Brooklyns Residential LTD",
+  "legal_name_searched": "Brooklyns Residential LTD",
+  "ch_found": true,
+  "ch_name": "BROOKLYNS RESIDENTIAL LTD",
+  "company_number": "09644484",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-06-17",
+  "company_type": "ltd",
+  "registered_address": "32 High Street, Burnham, SL1 7JP, United Kingdom",
+  "sic_codes": [
+    "68310"
+  ],
+  "sic_description": "68310",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Harpreet Garcha"
+  ],
+  "director_names": [
+    "GARCHA, Harpreet"
+  ],
+  "director_count": 1
+}

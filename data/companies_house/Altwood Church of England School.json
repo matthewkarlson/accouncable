@@ -1,0 +1,29 @@
+{
+  "supplier": "Altwood Church of England School",
+  "legal_name_searched": "Altwood Church of England School",
+  "ch_found": true,
+  "ch_name": "ALTWOOD CHURCH OF ENGLAND SCHOOL",
+  "company_number": "08107655",
+  "match_confidence": "exact",
+  "ch_status": "dissolved",
+  "is_suspicious_status": false,
+  "date_of_cessation": "2026-01-03",
+  "incorporated": "2012-06-15",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "Mha 6th Floor 2 London Wall Place, London, EC2Y 5AU",
+  "sic_codes": [
+    "85310"
+  ],
+  "sic_description": "85310",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "GRIFFIN, Louise",
+    "HARDEN, Catherine",
+    "HOWES, David Edward",
+    "MCLUCAS, Janice Mary",
+    "RINGSELL, Candice"
+  ],
+  "director_count": 5
+}

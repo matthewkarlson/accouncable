@@ -1,0 +1,32 @@
+{
+  "supplier": "Transparent Care Ltd",
+  "legal_name_searched": "Transparent Care Ltd",
+  "ch_found": true,
+  "ch_name": "KEYS ACCOMPLISH TC LIMITED",
+  "company_number": "10071901",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2016-03-18",
+  "company_type": "ltd",
+  "registered_address": "Maybrook House Third Floor, Queensway, Halesowen, B63 4AH, United Kingdom",
+  "sic_codes": [
+    "87200"
+  ],
+  "sic_description": "87200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Accomplish Group Bidco Limited",
+    "Mrs Andrea Morris-Garner",
+    "Mrs Andrea Morris Garner",
+    "Mrs Karen Jane Morris-Garner"
+  ],
+  "director_names": [
+    "MANSON, David Lindsay",
+    "MARTLE, Simon David",
+    "PATERSON, Pauline Clare"
+  ],
+  "director_count": 3
+}

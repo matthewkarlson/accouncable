@@ -1,0 +1,32 @@
+{
+  "supplier": "Ambleglow Ltd",
+  "legal_name_searched": "Ambleglow Ltd",
+  "ch_found": true,
+  "ch_name": "AMBLEGLOW LIMITED",
+  "company_number": "01540192",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1981-01-21",
+  "company_type": "ltd",
+  "registered_address": "Highland House Mayflower Close, Chandlers Ford, Eastleigh, SO53 4AR, England",
+  "sic_codes": [
+    "73110"
+  ],
+  "sic_description": "73110",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ambleglow Holdings Limited",
+    "Alun Spillman"
+  ],
+  "director_names": [
+    "BRYANT, Helena Sharon",
+    "ALEXANDER, Sally",
+    "BRYANT, Helena Sharon",
+    "SPILLMAN, Alun",
+    "SPILLMAN, Susan Tracy"
+  ],
+  "director_count": 5
+}

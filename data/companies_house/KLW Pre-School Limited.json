@@ -1,0 +1,30 @@
+{
+  "supplier": "KLW Pre-School Limited",
+  "legal_name_searched": "KLW Pre-School Limited",
+  "ch_found": true,
+  "ch_name": "KLW PRESCHOOL LIMITED",
+  "company_number": "14585489",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2023-01-11",
+  "company_type": "ltd",
+  "registered_address": "Trimstone, Hermitage Lane, Windsor, SL4 4AZ, England",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Samantha Josephine Holt",
+    "Mrs Kristin Lee Wright",
+    "Mrs Laura Marie Woodcock"
+  ],
+  "director_names": [
+    "HOLT, Samantha Josephine",
+    "WOODCOCK, Laura Marie"
+  ],
+  "director_count": 2
+}

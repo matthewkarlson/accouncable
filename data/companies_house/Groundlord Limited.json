@@ -1,0 +1,31 @@
+{
+  "supplier": "Groundlord Limited",
+  "legal_name_searched": "Groundlord Limited",
+  "ch_found": true,
+  "ch_name": "GROUNDLORD LTD",
+  "company_number": "09394007",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-01-19",
+  "company_type": "ltd",
+  "registered_address": "Suite 2 Healey House, Dene Road, Andover, SP10 2AA, United Kingdom",
+  "sic_codes": [
+    "02400"
+  ],
+  "sic_description": "02400",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Groundlord Holdings Limited",
+    "Mr William James Nelsey",
+    "Mr Joshua Raymond Pritchard",
+    "Mr Joel Francis Hope-Bell"
+  ],
+  "director_names": [
+    "PRITCHARD, Bekki",
+    "PRITCHARD, Joshua Raymond"
+  ],
+  "director_count": 2
+}

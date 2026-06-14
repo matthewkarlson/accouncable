@@ -1,0 +1,30 @@
+{
+  "supplier": "Askews and Holts Library Services Ltd",
+  "legal_name_searched": "Askews and Holts Library Services Ltd",
+  "ch_found": true,
+  "ch_name": "ASKEWS AND HOLTS LIBRARY SERVICES LTD.",
+  "company_number": "02745298",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1992-09-07",
+  "company_type": "ltd",
+  "registered_address": "1 Whittle Drive, Eastbourne, BN23 6QH, United Kingdom",
+  "sic_codes": [
+    "46900",
+    "96090"
+  ],
+  "sic_description": "46900, 96090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "The Little Group Limited"
+  ],
+  "director_names": [
+    "HALES, Ashley Elizabeth",
+    "LITTLE, Jonathan James",
+    "LITTLE, Nicola Gail"
+  ],
+  "director_count": 3
+}

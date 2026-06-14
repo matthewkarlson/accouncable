@@ -1,0 +1,28 @@
+{
+  "supplier": "Environment Agency",
+  "legal_name_searched": "Environment Agency",
+  "ch_found": true,
+  "ch_name": "THE ENVIRONMENTAL AND SOCIAL AGENCY FOR FINANCIERS LIMITED",
+  "company_number": "10659975",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-03-08",
+  "company_type": "ltd",
+  "registered_address": "The Old Bakery, Blackborough Road, Reigate, RH2 7BU, England",
+  "sic_codes": [
+    "70229"
+  ],
+  "sic_description": "70229",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Corinne Gisele Raux"
+  ],
+  "director_names": [
+    "CANNON, Bruce Mark",
+    "RAUX, Corinne Gisele"
+  ],
+  "director_count": 2
+}

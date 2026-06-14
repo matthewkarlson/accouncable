@@ -1,0 +1,27 @@
+{
+  "supplier": "The Riverside Day Nursery",
+  "legal_name_searched": "The Riverside Day Nursery",
+  "ch_found": true,
+  "ch_name": "THE RIVERSIDE DAY NURSERY LIMITED",
+  "company_number": "07095966",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2009-12-04",
+  "company_type": "ltd",
+  "registered_address": "2 Napper Close, Ascot, SL5 8HG, England",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Emma Margaret Summersgill"
+  ],
+  "director_names": [
+    "SUMMERSGILL, Emma Margaret"
+  ],
+  "director_count": 1
+}

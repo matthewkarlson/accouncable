@@ -1,0 +1,30 @@
+{
+  "supplier": "Worthy Builders(Reading)Ltd",
+  "legal_name_searched": "Worthy Builders(Reading)Ltd",
+  "ch_found": true,
+  "ch_name": "BROOK WORTHY LAW LTD",
+  "company_number": "08916328",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2014-02-28",
+  "company_type": "ltd",
+  "registered_address": "Suite 11 Fisher Gallaries, Fisher Street, Carlisle, CA3 8RH, England",
+  "sic_codes": [
+    "69109"
+  ],
+  "sic_description": "69109",
+  "accounts_overdue": true,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Miss Claire Malone",
+    "Mr Ian Black",
+    "Ms Jamila Mary Stone",
+    "Mr Patrick Henry Mousley"
+  ],
+  "director_names": [
+    "BLACK, Ian"
+  ],
+  "director_count": 1
+}

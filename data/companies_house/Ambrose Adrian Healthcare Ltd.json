@@ -1,0 +1,28 @@
+{
+  "supplier": "Ambrose Adrian Healthcare Ltd",
+  "legal_name_searched": "Ambrose Adrian Healthcare Ltd",
+  "ch_found": true,
+  "ch_name": "AMBROSE ADRIAN HEALTHCARE LTD",
+  "company_number": "10970453",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-09-19",
+  "company_type": "ltd",
+  "registered_address": "Regus Building, 268 Bath Road, Slough, SL1 4DX, England",
+  "sic_codes": [
+    "96090"
+  ],
+  "sic_description": "96090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Lynn Tatenda Chidawanyika",
+    "Ms Lillian Mutikani"
+  ],
+  "director_names": [
+    "CHIDAWANYIKA, Lynn Tatenda"
+  ],
+  "director_count": 1
+}

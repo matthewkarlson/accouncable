@@ -1,0 +1,29 @@
+{
+  "supplier": "Cookham Montessori School",
+  "legal_name_searched": "Cookham Montessori School",
+  "ch_found": true,
+  "ch_name": "COOKHAM RIDING SCHOOL LTD.",
+  "company_number": "06213228",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2007-04-16",
+  "company_type": "ltd",
+  "registered_address": "The Stables Strande Lane, Cookham, Maidenhead, SL6 9DN, England",
+  "sic_codes": [
+    "93199"
+  ],
+  "sic_description": "93199",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Andrew John Taylor",
+    "Ms Louise Francis Ann Christie"
+  ],
+  "director_names": [
+    "CHRISTIE, Louise Francis Ann",
+    "TAYLOR, Andrew John"
+  ],
+  "director_count": 2
+}

@@ -1,0 +1,32 @@
+{
+  "supplier": "Advanced Demand Side Management Ltd",
+  "legal_name_searched": "Advanced Demand Side Management Ltd",
+  "ch_found": true,
+  "ch_name": "ADVANCED DEMAND SIDE MANAGEMENT LIMITED",
+  "company_number": "02688973",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1992-02-19",
+  "company_type": "ltd",
+  "registered_address": "Commercial House 80 High Street, Eton, Windsor, SL4 6AF",
+  "sic_codes": [
+    "36000",
+    "74909"
+  ],
+  "sic_description": "36000, 74909",
+  "accounts_overdue": false,
+  "is_council_controlled": true,
+  "psc_names": [
+    "Water Forensics Ltd",
+    "Adsm Trustees",
+    "Mr Patrick Mccart"
+  ],
+  "director_names": [
+    "NORRELL, Kevin Eric",
+    "MCCART, Patrick",
+    "STEVENS, Gareth John"
+  ],
+  "director_count": 3
+}

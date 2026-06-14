@@ -1,0 +1,33 @@
+{
+  "supplier": "ET Works Ltd",
+  "legal_name_searched": "ET Works Ltd",
+  "ch_found": true,
+  "ch_name": "ET WORKS LTD",
+  "company_number": "03746274",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1999-04-06",
+  "company_type": "ltd",
+  "registered_address": "Cambridge House, Cambridge Road, Walton On Thames, KT12 2DP",
+  "sic_codes": [
+    "62020",
+    "62030",
+    "62090",
+    "63110"
+  ],
+  "sic_description": "62020, 62030, 62090, 63110",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Et Works Holdings Limited",
+    "Mr Bernard Boyce",
+    "Mrs Jacqueline Boyce"
+  ],
+  "director_names": [
+    "BOYCE, Andrew",
+    "BOYCE, Bernard"
+  ],
+  "director_count": 2
+}

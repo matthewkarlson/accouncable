@@ -1,0 +1,30 @@
+{
+  "supplier": "Civica UK Ltd",
+  "legal_name_searched": "Civica UK Ltd",
+  "ch_found": true,
+  "ch_name": "CIVICA UK LIMITED",
+  "company_number": "01628868",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1982-04-14",
+  "company_type": "ltd",
+  "registered_address": "Southbank Central, 30 Stamford Street, London, SE1 9LQ, England",
+  "sic_codes": [
+    "62090"
+  ],
+  "sic_description": "62090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Civica Holdings Limited"
+  ],
+  "director_names": [
+    "STODDARD, Michael",
+    "O'REILLY, Gerald Eric",
+    "PERKINS, Lee John",
+    "STODDARD, Michael"
+  ],
+  "director_count": 4
+}

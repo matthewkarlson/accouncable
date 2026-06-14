@@ -1,0 +1,33 @@
+{
+  "supplier": "Care UK Care Services Ltd t/a Larkland House",
+  "legal_name_searched": "Care UK Care Services Ltd",
+  "ch_found": true,
+  "ch_name": "CARE UK CARE SERVICES LIMITED",
+  "company_number": "02571516",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1991-01-03",
+  "company_type": "ltd",
+  "registered_address": "Connaught House 850 The Crescent, Colchester Business Park, Colchester, CO4 9QB",
+  "sic_codes": [
+    "82990",
+    "86102"
+  ],
+  "sic_description": "82990, 86102",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Debeaubien Care Limited",
+    "Care Uk Community Partnerships Limited"
+  ],
+  "director_names": [
+    "CALOW, Jonathan David",
+    "HARVEY, Rachel Louise",
+    "KNIGHT, Andrew Ronald",
+    "PEARMAN, Richard Charles",
+    "ROSENBERG, Matthew Alexander"
+  ],
+  "director_count": 5
+}

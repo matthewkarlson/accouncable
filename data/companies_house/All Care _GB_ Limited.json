@@ -1,0 +1,30 @@
+{
+  "supplier": "All Care (GB) Limited",
+  "legal_name_searched": "All Care (GB) Limited",
+  "ch_found": true,
+  "ch_name": "ALL CARE (GB) LIMITED",
+  "company_number": "05100341",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2004-04-13",
+  "company_type": "ltd",
+  "registered_address": "245 Hammersmith Road, London, W6 8PW, England",
+  "sic_codes": [
+    "88100"
+  ],
+  "sic_description": "88100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Mario Abajo Menguez",
+    "Clece Care Services Ltd"
+  ],
+  "director_names": [
+    "FRESNILLO LOBO, Lamberto",
+    "FRESNILLO LOBO, Lamberto",
+    "HERRAIZ MARCO, Miguel \u00c1ngel"
+  ],
+  "director_count": 3
+}

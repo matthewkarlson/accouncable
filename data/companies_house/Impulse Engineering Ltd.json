@@ -1,0 +1,30 @@
+{
+  "supplier": "Impulse Engineering Ltd",
+  "legal_name_searched": "Impulse Engineering Ltd",
+  "ch_found": true,
+  "ch_name": "IMPULSE ENGINEERING LIMITED",
+  "company_number": "01984714",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1986-01-31",
+  "company_type": "ltd",
+  "registered_address": "Wey Court West, Union Road, Farnham, Surrey, GU9 7PT",
+  "sic_codes": [
+    "43999"
+  ],
+  "sic_description": "43999",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Impulse Engineering (Holdings) Limited"
+  ],
+  "director_names": [
+    "ROBINSON-LOVE, Timothy John",
+    "BEACHAM, Timothy David",
+    "MARK, Abigail",
+    "NEWMAN, Eric Dossett"
+  ],
+  "director_count": 4
+}

@@ -1,0 +1,39 @@
+{
+  "supplier": "Achieving for Children Community Interest Co",
+  "legal_name_searched": "Achieving for Children Community Interest Co",
+  "ch_found": true,
+  "ch_name": "ACHIEVING FOR CHILDREN COMMUNITY INTEREST COMPANY",
+  "company_number": "08878185",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2014-02-05",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "44 York Street, Twickenham, TW1 3BZ, England",
+  "sic_codes": [
+    "84110",
+    "85600",
+    "87900",
+    "88990"
+  ],
+  "sic_description": "84110, 85600, 87900, 88990",
+  "accounts_overdue": false,
+  "is_council_controlled": true,
+  "psc_names": [
+    "The Royal Borough Of Windsor And Maidenhead",
+    "The Royal Borough Of Kingston Upon Thames",
+    "The London Borough Of Richmond Upon Thames"
+  ],
+  "director_names": [
+    "KOURPAS, Lucy",
+    "DODDS, Ian Matthew",
+    "FERGUSON, Linda Millicent",
+    "IRELAND, Sarah Jane",
+    "KOURPAS, Lucy",
+    "MCDANIEL, Kevin Paul",
+    "POPOVICI, Anamaria",
+    "WICKS, Sian Elizabeth"
+  ],
+  "director_count": 8
+}

@@ -1,0 +1,29 @@
+{
+  "supplier": "BUPA Care Home (CFH Care) Ltd t/a  BUPA Global and UK",
+  "legal_name_searched": "BUPA Care Home (CFH Care) Ltd",
+  "ch_found": true,
+  "ch_name": "BUPA CARE HOMES (AKW) LIMITED",
+  "company_number": "04122364",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2000-12-11",
+  "company_type": "ltd",
+  "registered_address": "1 Angel Court, London, EC2R 7HJ, United Kingdom",
+  "sic_codes": [
+    "96090"
+  ],
+  "sic_description": "96090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Bupa Care Homes (Ans) Limited"
+  ],
+  "director_names": [
+    "BARKER, Neil Stephen",
+    "HOOSEN-WEBBER, Thomas Nichol",
+    "WATON, Aileen"
+  ],
+  "director_count": 3
+}

@@ -1,0 +1,28 @@
+{
+  "supplier": "Cushman & Wakefield Debenham Tie Leung Ltd",
+  "legal_name_searched": "Cushman & Wakefield Debenham Tie Leung Ltd",
+  "ch_found": true,
+  "ch_name": "CUSHMAN & WAKEFIELD DEBENHAM TIE LEUNG LIMITED",
+  "company_number": "02757768",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1992-10-16",
+  "company_type": "ltd",
+  "registered_address": "125 Old Broad Street, London, EC2N 1AR",
+  "sic_codes": [
+    "68310"
+  ],
+  "sic_description": "68310",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Dtz Europe Limited"
+  ],
+  "director_names": [
+    "CULLEN, Benjamin Nicholas",
+    "SALUJA, Ravinder"
+  ],
+  "director_count": 2
+}

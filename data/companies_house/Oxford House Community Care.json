@@ -1,0 +1,30 @@
+{
+  "supplier": "Oxford House Community Care",
+  "legal_name_searched": "Oxford House Community Care",
+  "ch_found": true,
+  "ch_name": "OXFORD CENTRE FOR EDUCATION AND RESEARCH IN PALLIATIVE CARE: SOBELL HOUSE",
+  "company_number": "10647198",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-03-02",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "30 St Giles, Oxford, OX1 3LE, United Kingdom",
+  "sic_codes": [
+    "85600",
+    "86900"
+  ],
+  "sic_description": "85600, 86900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "CARPENTER, Chantel",
+    "HARRISON, Tim, Dr",
+    "LAURENCE, Elizabeth Anne, Professor",
+    "SYMONS, Kay",
+    "YATES, Sharon"
+  ],
+  "director_count": 5
+}

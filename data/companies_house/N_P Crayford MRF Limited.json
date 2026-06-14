@@ -1,0 +1,29 @@
+{
+  "supplier": "N+P Crayford MRF Limited",
+  "legal_name_searched": "N+P Crayford MRF Limited",
+  "ch_found": true,
+  "ch_name": "N&P CRAYFORD MRF LIMITED",
+  "company_number": "13270472",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2021-03-16",
+  "company_type": "ltd",
+  "registered_address": "Century Wharf, Crayford Creek, Dartford, DA1 4QG, United Kingdom",
+  "sic_codes": [
+    "38320"
+  ],
+  "sic_description": "38320",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "N&P Crayford Holding Ltd",
+    "Viridor Waste Limited (Co No 02662755)"
+  ],
+  "director_names": [
+    "JENNISSEN, Jens",
+    "JENNISSEN, Lars"
+  ],
+  "director_count": 2
+}

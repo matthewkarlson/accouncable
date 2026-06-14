@@ -1,0 +1,32 @@
+{
+  "supplier": "Kido Schools UK Ltd",
+  "legal_name_searched": "Kido Schools UK Ltd",
+  "ch_found": true,
+  "ch_name": "KIDO SCHOOLS UK LIMITED",
+  "company_number": "10228253",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2016-06-13",
+  "company_type": "ltd",
+  "registered_address": "Oakmoore Court Kingswood Road, Hampton Lovett, Droitwich, WR9 0QH, United Kingdom",
+  "sic_codes": [
+    "88910"
+  ],
+  "sic_description": "88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Aniruddh Gupta",
+    "Ms Seong Eun Oh"
+  ],
+  "director_names": [
+    "GUPTA, Aniruddh",
+    "PHILLIPS, Emma Jane",
+    "SACHS, Philippe Eric",
+    "SHARMA, Ashish Amit",
+    "WEISS, Lawrence Martin"
+  ],
+  "director_count": 5
+}

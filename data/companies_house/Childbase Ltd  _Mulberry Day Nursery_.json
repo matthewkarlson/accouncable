@@ -1,0 +1,30 @@
+{
+  "supplier": "Childbase Ltd  (Mulberry Day Nursery)",
+  "legal_name_searched": "Childbase Ltd  (Mulberry Day Nursery)",
+  "ch_found": true,
+  "ch_name": "CHILDBASE EMPLOYEE OWNERSHIP TRUSTEE LIMITED",
+  "company_number": "10637619",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-02-24",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "Kingston House, Northampton Road, Newport Pagnell, MK16 8NJ, United Kingdom",
+  "sic_codes": [
+    "82990"
+  ],
+  "sic_description": "82990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "BOYLE, Rachel",
+    "HINCHLIFFE, Martin",
+    "LEITCH, Neil",
+    "ROSS-BARNARD, Georgina",
+    "THOMPSON, Michael Anthony Norcott",
+    "WINCOTT, Ian"
+  ],
+  "director_count": 6
+}

@@ -1,0 +1,30 @@
+{
+  "supplier": "Tivoli Group Ltd",
+  "legal_name_searched": "Tivoli Group Ltd",
+  "ch_found": true,
+  "ch_name": "TIVOLI GROUP LIMITED",
+  "company_number": "11120774",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-12-21",
+  "company_type": "ltd",
+  "registered_address": "Nursery Court, London Road, Windlesham, GU20 6LQ, United Kingdom",
+  "sic_codes": [
+    "81300"
+  ],
+  "sic_description": "81300",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Amistha Bidco Limited",
+    "Mr Richard Barry Sanders",
+    "Mr Layton Gwyn Tamberlin"
+  ],
+  "director_names": [
+    "BHOGAITA, Rajesh Prabhashanker",
+    "FANE, Peter John"
+  ],
+  "director_count": 2
+}

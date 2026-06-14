@@ -1,0 +1,33 @@
+{
+  "supplier": "Upton House School Limited",
+  "legal_name_searched": "Upton House School Limited",
+  "ch_found": true,
+  "ch_name": "UPTON HOUSE SCHOOL LIMITED",
+  "company_number": "00677794",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1960-12-14",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "115 St. Leonards Road, Windsor, Berks, SL4 3DF",
+  "sic_codes": [
+    "85200"
+  ],
+  "sic_description": "85200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "DACEY-GALE, Jenny Rose",
+    "GILDING-BRANT, Claire Elizabeth",
+    "LLOYD, Fiona Rita",
+    "POWELL, Timothy John",
+    "SHIRKE YURAVLIVKER, Anita Pratap",
+    "SMYTH, Rory David Lee",
+    "THOMPSON, Richard David",
+    "VERANO LURI, Rebecca Kate",
+    "WARWICKER, Peter Maciej"
+  ],
+  "director_count": 9
+}

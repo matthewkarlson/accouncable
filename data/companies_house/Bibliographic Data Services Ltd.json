@@ -1,0 +1,37 @@
+{
+  "supplier": "Bibliographic Data Services Ltd",
+  "legal_name_searched": "Bibliographic Data Services Ltd",
+  "ch_found": true,
+  "ch_name": "BIBLIOGRAPHIC DATA SERVICES LIMITED",
+  "company_number": "SC154602",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1994-11-30",
+  "company_type": "ltd",
+  "registered_address": "Annandale House, The Crichton, Dumfries, DG1 4TA",
+  "sic_codes": [
+    "62090"
+  ],
+  "sic_description": "62090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Eric Green",
+    "Ms Lesley Craig Whyte",
+    "Bds (Dumfries) Limited",
+    "Scottish Enterprise Dumfries And Galloway",
+    "Ms Lesley Craig Whyte",
+    "Mr Eric Green",
+    "Nielsen Book Services Ltd"
+  ],
+  "director_names": [
+    "GREEN, Eric",
+    "GREEN, Eric",
+    "GRIER, Colin Robert",
+    "MCGILL, Gerald Michael",
+    "WHYTE, Lesley Craig"
+  ],
+  "director_count": 5
+}

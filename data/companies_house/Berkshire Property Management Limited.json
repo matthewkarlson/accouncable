@@ -1,0 +1,30 @@
+{
+  "supplier": "Berkshire Property Management Limited",
+  "legal_name_searched": "Berkshire Property Management Limited",
+  "ch_found": true,
+  "ch_name": "BERKSHIRE PROPERTY MANAGEMENT LIMITED",
+  "company_number": "05242783",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2004-09-27",
+  "company_type": "ltd",
+  "registered_address": "Ramblers Walk, 9 Rambler Lane, Slough, SL3 7RR, England",
+  "sic_codes": [
+    "68209"
+  ],
+  "sic_description": "68209",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Sawaron Singh Hothi",
+    "Mr Sohan Singh Hothi"
+  ],
+  "director_names": [
+    "HOTHI, Sawaron Singh",
+    "HOTHI, Sawaron Singh",
+    "HOTHI, Sohan Singh"
+  ],
+  "director_count": 3
+}

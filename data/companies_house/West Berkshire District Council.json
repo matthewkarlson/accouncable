@@ -1,0 +1,21 @@
+{
+  "supplier": "West Berkshire District Council",
+  "legal_name_searched": "West Berkshire District Council",
+  "ch_found": true,
+  "ch_name": "BARNSLEY AND DISTRICT TRADES COUNCIL CLUB AND INSTITUTE LIMITED",
+  "company_number": "IP030413",
+  "match_confidence": "low",
+  "ch_status": "",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "",
+  "company_type": "registered-society-non-jurisdictional",
+  "registered_address": "",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [],
+  "director_count": 0
+}

@@ -1,0 +1,28 @@
+{
+  "supplier": "Urbaser Limited",
+  "legal_name_searched": "Urbaser Limited",
+  "ch_found": true,
+  "ch_name": "FCC WASTE MANAGEMENT LIMITED",
+  "company_number": "03588422",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1998-06-25",
+  "company_type": "ltd",
+  "registered_address": "3 Sidings Court, White Rose Way, Doncaster, DN4 5NU, England",
+  "sic_codes": [
+    "39000"
+  ],
+  "sic_description": "39000",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Fcc Environment (Uk) Limited"
+  ],
+  "director_names": [
+    "LONGDON, Steven John",
+    "MCKENZIE, Fraser Wilson"
+  ],
+  "director_count": 2
+}

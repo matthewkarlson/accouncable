@@ -1,0 +1,30 @@
+{
+  "supplier": "Busy Bees at Hall Place Nursery",
+  "legal_name_searched": "Busy Bees at Hall Place Nursery",
+  "ch_found": true,
+  "ch_name": "BUSY LITTLE BEES NURSERY (HALL GREEN) LIMITED",
+  "company_number": "05042496",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2004-02-12",
+  "company_type": "ltd",
+  "registered_address": "1493 Stratford Road, Hall Green, Birmingham, B28 9HT",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Attivo Ltd",
+    "Mrs Jacqueline Davies"
+  ],
+  "director_names": [
+    "LAMBETH, Rebecca Sonia Theresa",
+    "LONG, Marcella",
+    "LONG, Stefan Clarence"
+  ],
+  "director_count": 3
+}

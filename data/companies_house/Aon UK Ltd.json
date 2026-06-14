@@ -1,0 +1,36 @@
+{
+  "supplier": "Aon UK Ltd",
+  "legal_name_searched": "Aon UK Ltd",
+  "ch_found": true,
+  "ch_name": "AON UK LIMITED",
+  "company_number": "00210725",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1925-12-29",
+  "company_type": "ltd",
+  "registered_address": "The Aon Centre The Leadenhall Building, 122 Leadenhall Street, London, EC3V 4AN, United Kingdom",
+  "sic_codes": [
+    "66220"
+  ],
+  "sic_description": "66220",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Aon Uk Holdings Limited"
+  ],
+  "director_names": [
+    "CLARKE, Dean Leonard",
+    "AMIRI, Iraj",
+    "CHARLES -JONES, Lucinda Claire",
+    "COOPER, Kirstine Ann",
+    "DAVIES, Neil Richard",
+    "JUDD, Carole Ann",
+    "KIELTY-O'GARA, Jane Elizabeth",
+    "KING, Steven Michael",
+    "LAING, Andrew Charles Gordon",
+    "WINLOW, Mark"
+  ],
+  "director_count": 10
+}

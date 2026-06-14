@@ -1,0 +1,32 @@
+{
+  "supplier": "Red Balloon Ockham Ltd TA N Family Club Maidenhead",
+  "legal_name_searched": "Red Balloon Ockham Ltd TA N Family Club Maidenhead",
+  "ch_found": true,
+  "ch_name": "RED BALLOON OCKHAM LIMITED",
+  "company_number": "09884077",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-11-23",
+  "company_type": "ltd",
+  "registered_address": "47-49 Charlotte Road, London, EC2A 3QT, England",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "N Family Club Ltd",
+    "N Family Holdings Ltd",
+    "Mrs Abigail Melissa Auty"
+  ],
+  "director_names": [
+    "REYNOLDS, Claire",
+    "CARTER, Simone",
+    "SUNDERLAND, Philip",
+    "TEMPLE, Jonathan Paul Edward"
+  ],
+  "director_count": 4
+}

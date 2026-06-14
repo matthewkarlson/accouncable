@@ -1,0 +1,29 @@
+{
+  "supplier": "SVL3 Ltd",
+  "legal_name_searched": "SVL3 Ltd",
+  "ch_found": true,
+  "ch_name": "SVL3 LIMITED",
+  "company_number": "14270810",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2022-08-02",
+  "company_type": "ltd",
+  "registered_address": "Unit 6 Maidenhead Trade Park, Priors Way, Maidenhead, SL6 2GQ, England",
+  "sic_codes": [
+    "68100",
+    "68209"
+  ],
+  "sic_description": "68100, 68209",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Svl1 Ltd.",
+    "Mr Simranjeet Singh"
+  ],
+  "director_names": [
+    "SINGH, Simranjeet"
+  ],
+  "director_count": 1
+}

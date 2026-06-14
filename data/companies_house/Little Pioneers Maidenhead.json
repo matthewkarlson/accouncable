@@ -1,0 +1,30 @@
+{
+  "supplier": "Little Pioneers Maidenhead",
+  "legal_name_searched": "Little Pioneers Maidenhead",
+  "ch_found": true,
+  "ch_name": "LITTLE PIONEERS LTD",
+  "company_number": "17099893",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2026-03-18",
+  "company_type": "ltd",
+  "registered_address": "397 Whitehorse Road, Thornton Heath, CR7 8SD, England",
+  "sic_codes": [
+    "56290",
+    "85100",
+    "88910",
+    "96040"
+  ],
+  "sic_description": "56290, 85100, 88910, 96040",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Pamela Effeta Adulsa Markland"
+  ],
+  "director_names": [
+    "MARKLAND, Pamela Effeta Adulsa"
+  ],
+  "director_count": 1
+}

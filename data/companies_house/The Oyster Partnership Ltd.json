@@ -1,0 +1,31 @@
+{
+  "supplier": "The Oyster Partnership Ltd",
+  "legal_name_searched": "The Oyster Partnership Ltd",
+  "ch_found": true,
+  "ch_name": "THE OYSTER PARTNERSHIP LIMITED",
+  "company_number": "05020374",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2004-01-20",
+  "company_type": "ltd",
+  "registered_address": "19-20 Berners Street, Bischheim House, London, W1T 3NW, England",
+  "sic_codes": [
+    "78109",
+    "78200"
+  ],
+  "sic_description": "78109, 78200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Soho Management Group Limited",
+    "Mr Daniel Terence Whomes",
+    "Mr. Jack Keith Barton"
+  ],
+  "director_names": [
+    "BANDIERA, Sasza",
+    "WHOMES, Daniel Terence"
+  ],
+  "director_count": 2
+}

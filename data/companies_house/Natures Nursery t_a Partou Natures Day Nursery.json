@@ -1,0 +1,33 @@
+{
+  "supplier": "Natures Nursery t/a Partou Natures Day Nursery",
+  "legal_name_searched": "Partou UK Limited",
+  "ch_found": true,
+  "ch_name": "PARTOU UK LIMITED",
+  "company_number": "07223697",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2010-04-14",
+  "company_type": "ltd",
+  "registered_address": "Ridgway House Progress Way, Denton, Manchester, M34 2GP, England",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Partou Uk Holding Limited",
+    "Rb 1884 Limited",
+    "Belinda Maria Ford",
+    "Mr Russell Mark Ford"
+  ],
+  "director_names": [
+    "EDGAR, Matthew Richard Yarker",
+    "EVERTON, John Henry",
+    "JACKSON, Kirsty Joanna",
+    "SMITH, Richard Henry"
+  ],
+  "director_count": 4
+}

@@ -1,0 +1,29 @@
+{
+  "supplier": "Tile Hill & Executive Ltd",
+  "legal_name_searched": "Tile Hill & Executive Ltd",
+  "ch_found": true,
+  "ch_name": "TILE HILL INTERIM & EXECUTIVE LIMITED",
+  "company_number": "10484468",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2016-11-17",
+  "company_type": "ltd",
+  "registered_address": "Suite 501 The Nexus Building, Broadway, Letchworth Garden City, SG6 3TA, England",
+  "sic_codes": [
+    "78109"
+  ],
+  "sic_description": "78109",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Tile Hill Group Limited",
+    "Mr David Weir"
+  ],
+  "director_names": [
+    "LEWIS, Anthony",
+    "WEIR, David"
+  ],
+  "director_count": 2
+}

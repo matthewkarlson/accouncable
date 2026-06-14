@@ -1,0 +1,29 @@
+{
+  "supplier": "Open4You Limited",
+  "legal_name_searched": "Open4You Limited",
+  "ch_found": true,
+  "ch_name": "OPEN4YOU LTD",
+  "company_number": "08800684",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2013-12-03",
+  "company_type": "ltd",
+  "registered_address": "Chilterns House, Eton Place 64 High Street, Burnham, Bucks, SL1 7JT, England",
+  "sic_codes": [
+    "68320"
+  ],
+  "sic_description": "68320",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Jason Mark Colomb",
+    "Mr David Kieran Haugh"
+  ],
+  "director_names": [
+    "COLOMB, Jason Mark",
+    "HAUGH, David Kieran"
+  ],
+  "director_count": 2
+}

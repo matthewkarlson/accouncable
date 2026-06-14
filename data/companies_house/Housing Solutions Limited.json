@@ -1,0 +1,21 @@
+{
+  "supplier": "Housing Solutions Limited",
+  "legal_name_searched": "Housing Solutions Limited",
+  "ch_found": true,
+  "ch_name": "HOUSING SOLUTIONS",
+  "company_number": "IP27876R",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "",
+  "company_type": "registered-society-non-jurisdictional",
+  "registered_address": "",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [],
+  "director_count": 0
+}

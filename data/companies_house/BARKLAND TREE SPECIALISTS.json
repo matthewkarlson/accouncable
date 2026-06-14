@@ -1,0 +1,27 @@
+{
+  "supplier": "BARKLAND TREE SPECIALISTS",
+  "legal_name_searched": "BARKLAND TREE SPECIALISTS",
+  "ch_found": true,
+  "ch_name": "BARKLAND TREE SPECIALISTS LIMITED",
+  "company_number": "04793462",
+  "match_confidence": "prefix",
+  "ch_status": "dissolved",
+  "is_suspicious_status": true,
+  "date_of_cessation": "2011-01-18",
+  "incorporated": "2003-06-10",
+  "company_type": "ltd",
+  "registered_address": "Vermeulens Garden Centre, Horton Road Stanwell Moor, Staines, TW19 6AE",
+  "sic_codes": [
+    "9305"
+  ],
+  "sic_description": "9305",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "SIBLEY, Lindsey",
+    "OWENS, Steven John",
+    "SIBLEY, Jay"
+  ],
+  "director_count": 3
+}

@@ -1,0 +1,32 @@
+{
+  "supplier": "VolkerHighways Limited",
+  "legal_name_searched": "VolkerHighways Limited",
+  "ch_found": true,
+  "ch_name": "VOLKERHIGHWAYS LIMITED",
+  "company_number": "00638559",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1959-10-01",
+  "company_type": "ltd",
+  "registered_address": "Hertford Road, Hoddesdon, EN11 9BX",
+  "sic_codes": [
+    "43999"
+  ],
+  "sic_description": "43999",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Volkerwessels Limited"
+  ],
+  "director_names": [
+    "GROOM, Simon Patrick",
+    "HARRIS, Anita Suzanne",
+    "OFFORD, Richard Andrew",
+    "WALSH, Peter Francis",
+    "WILBRAM, Andrew Philip",
+    "WOODS, Matthew Gordon"
+  ],
+  "director_count": 6
+}

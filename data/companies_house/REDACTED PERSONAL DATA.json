@@ -1,0 +1,30 @@
+{
+  "supplier": "REDACTED PERSONAL DATA",
+  "legal_name_searched": "REDACTED PERSONAL DATA",
+  "ch_found": true,
+  "ch_name": "PERSONAL DATA LTD",
+  "company_number": "13810942",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2021-12-21",
+  "company_type": "ltd",
+  "registered_address": "International House, 64 Nile Street, London, N1 7SR, United Kingdom",
+  "sic_codes": [
+    "62020"
+  ],
+  "sic_description": "62020",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Dr. Marcel Alexander Admiraal",
+    "Daniela Ortner"
+  ],
+  "director_names": [
+    "ORTNER, Daniela, Mx",
+    "ADMIRAAL, Marcel Alexander, Dr.",
+    "ORTNER, Daniela"
+  ],
+  "director_count": 3
+}

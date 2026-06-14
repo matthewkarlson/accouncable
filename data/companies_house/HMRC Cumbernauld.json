@@ -1,0 +1,23 @@
+{
+  "supplier": "HMRC Cumbernauld",
+  "legal_name_searched": "HMRC Cumbernauld",
+  "ch_found": true,
+  "ch_name": "H.M.R.CONSULTANCY LTD",
+  "company_number": "09184801",
+  "match_confidence": "low",
+  "ch_status": "dissolved",
+  "is_suspicious_status": true,
+  "date_of_cessation": "2016-03-29",
+  "incorporated": "2014-08-21",
+  "company_type": "ltd",
+  "registered_address": "24 Eldwick Street, Burnley, BB10 3DU, England",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "MAHMOOD, Tahir"
+  ],
+  "director_count": 1
+}

@@ -1,0 +1,25 @@
+{
+  "supplier": "NHRH Ltd T/a Normanhurst Residential Home",
+  "legal_name_searched": "NHRH Ltd T/a Normanhurst Residential Home",
+  "ch_found": true,
+  "ch_name": "NORMANHURST COURT (FREEHOLD) LTD.",
+  "company_number": "06863237",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2009-03-30",
+  "company_type": "ltd",
+  "registered_address": "15 Ralliwood Road, Ashtead, KT21 1DD",
+  "sic_codes": [
+    "99999"
+  ],
+  "sic_description": "99999",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "RHODES-STEERE, Ann"
+  ],
+  "director_count": 1
+}

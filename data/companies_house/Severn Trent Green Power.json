@@ -1,0 +1,31 @@
+{
+  "supplier": "Severn Trent Green Power",
+  "legal_name_searched": "Severn Trent Green Power",
+  "ch_found": true,
+  "ch_name": "SEVERN TRENT GREEN POWER LIMITED",
+  "company_number": "04501557",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2002-08-01",
+  "company_type": "ltd",
+  "registered_address": "The Stables, Radford, Chipping Norton, OX7 4EB, England",
+  "sic_codes": [
+    "35110"
+  ],
+  "sic_description": "35110",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Severn Trent Holdings Limited"
+  ],
+  "director_names": [
+    "RICHARDS, Naomi",
+    "ANDERSON, Shane Robert",
+    "BRADLEY, Sarah Louise",
+    "GILES, Chris",
+    "WROE, Jonathon"
+  ],
+  "director_count": 5
+}

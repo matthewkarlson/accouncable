@@ -1,0 +1,33 @@
+{
+  "supplier": "Department for Communities & Local Government",
+  "legal_name_searched": "Department for Communities & Local Government",
+  "ch_found": true,
+  "ch_name": "COMMONWEALTH LOCAL GOVERNMENT FORUM",
+  "company_number": "02962250",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1994-08-25",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "Golden Cross House, 8 Duncannon Street, London, WC2N 4JF, United Kingdom",
+  "sic_codes": [
+    "94990",
+    "99000"
+  ],
+  "sic_description": "94990, 99000",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Rev Mmachakga Mpho Benjamin Walter Moruakgomo",
+    "Cllr Philip Mcphee",
+    "Mr Simon Baker"
+  ],
+  "director_names": [
+    "SLACK, Lucy",
+    "BAKER, Simon William",
+    "SLACK, Lucy Emma",
+    "WAGNER, Joseph Bernard"
+  ],
+  "director_count": 4
+}

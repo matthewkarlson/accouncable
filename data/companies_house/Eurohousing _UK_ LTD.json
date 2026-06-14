@@ -1,0 +1,28 @@
+{
+  "supplier": "Eurohousing (UK) LTD",
+  "legal_name_searched": "Eurohousing (UK) LTD",
+  "ch_found": true,
+  "ch_name": "EUROHOUSING (UK) LIMITED",
+  "company_number": "04547244",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2002-09-27",
+  "company_type": "ltd",
+  "registered_address": "3 Athenaeum Road, London, N20 9AA, England",
+  "sic_codes": [
+    "68209"
+  ],
+  "sic_description": "68209",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Baljit Kaur Shina",
+    "Mr Sarbjeet Singh Shina"
+  ],
+  "director_names": [
+    "SHINA, Sarbjeet Singh"
+  ],
+  "director_count": 1
+}

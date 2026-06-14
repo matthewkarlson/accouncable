@@ -1,0 +1,27 @@
+{
+  "supplier": "Grant Thornton UK LLP",
+  "legal_name_searched": "Grant Thornton UK LLP",
+  "ch_found": true,
+  "ch_name": "GRANT THORNTON UK LLP",
+  "company_number": "OC307742",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2004-04-24",
+  "company_type": "llp",
+  "registered_address": "8 Finsbury Circus, London, EC2M 7EA, England",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Wendy Jane Russell",
+    "Pacioli Uk Midco Limited",
+    "Malcolm Anthony Gomersall",
+    "David John Dunckley",
+    "Ms Sacha Veronica Romanovitch"
+  ],
+  "director_names": [],
+  "director_count": 0
+}

@@ -1,0 +1,28 @@
+{
+  "supplier": "Care UK Community P\u00b4Ships Ltd t/a Clara Court",
+  "legal_name_searched": "Care UK Community P\u00b4Ships Ltd",
+  "ch_found": true,
+  "ch_name": "ADVANCED COMMUNITY CARE UK LTD",
+  "company_number": "15349192",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2023-12-13",
+  "company_type": "ltd",
+  "registered_address": "6 Waylen Gardens, Dartford, DA1 5GJ, England",
+  "sic_codes": [
+    "87200"
+  ],
+  "sic_description": "87200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Muhammad Nur Hussain"
+  ],
+  "director_names": [
+    "HUSSAIN, Muhammad Nur",
+    "KEARNS, John"
+  ],
+  "director_count": 2
+}

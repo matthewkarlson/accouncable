@@ -1,0 +1,29 @@
+{
+  "supplier": "Panoramic Associates Limited",
+  "legal_name_searched": "Panoramic Associates Limited",
+  "ch_found": true,
+  "ch_name": "PANORAMIC ASSOCIATES LTD",
+  "company_number": "06881542",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2009-04-20",
+  "company_type": "ltd",
+  "registered_address": "61 Queen Square, Bristol, BS1 4JZ",
+  "sic_codes": [
+    "78200"
+  ],
+  "sic_description": "78200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Precision Resource Group Limited"
+  ],
+  "director_names": [
+    "HIBBERD, Thomas James",
+    "HIBBERD, Thomas James",
+    "LLOYD, Mark Clifford"
+  ],
+  "director_count": 3
+}

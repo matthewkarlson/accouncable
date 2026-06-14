@@ -1,0 +1,29 @@
+{
+  "supplier": "Frederick George Mileham Limited",
+  "legal_name_searched": "Frederick George Mileham Limited",
+  "ch_found": true,
+  "ch_name": "FREDERICK GEORGE MILEHAM LIMITED",
+  "company_number": "12419548",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2020-01-22",
+  "company_type": "ltd",
+  "registered_address": "166 College Road, Harrow, HA1 1BH, United Kingdom",
+  "sic_codes": [
+    "41201"
+  ],
+  "sic_description": "41201",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Stephen Mileham",
+    "Mr Barry James Mileham"
+  ],
+  "director_names": [
+    "MILEHAM, Barry James",
+    "MILEHAM, Stephen"
+  ],
+  "director_count": 2
+}

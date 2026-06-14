@@ -1,0 +1,27 @@
+{
+  "supplier": "Zurich Insurance PLC t/a Zurich Municipal",
+  "legal_name_searched": "Zurich Insurance PLC",
+  "ch_found": true,
+  "ch_name": "ZURICH INSURANCE EUROPE AG",
+  "company_number": "FC025710",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2005-01-01",
+  "company_type": "oversea-company",
+  "registered_address": "Platz Der Einheit 2, 14-27 Og/Floor, Frankfurt Am Main, Germany",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "HELLMANN, Wolfram Gunther, Dr",
+    "KLOSE, Markus Richard",
+    "SCHOLZ, Norbert",
+    "TOLAND, Scott Hamilton",
+    "WOLBER, Jens"
+  ],
+  "director_count": 5
+}

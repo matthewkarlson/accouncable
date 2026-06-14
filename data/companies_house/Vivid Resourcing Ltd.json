@@ -1,0 +1,30 @@
+{
+  "supplier": "Vivid Resourcing Ltd",
+  "legal_name_searched": "Vivid Resourcing Ltd",
+  "ch_found": true,
+  "ch_name": "VIVID RESOURCING LIMITED",
+  "company_number": "06459262",
+  "match_confidence": "high",
+  "ch_status": "dissolved",
+  "is_suspicious_status": true,
+  "date_of_cessation": "2024-01-30",
+  "incorporated": "2007-12-21",
+  "company_type": "ltd",
+  "registered_address": "4th Floor, 10 Old Bailey, London, EC4M 7NG, England",
+  "sic_codes": [
+    "78200"
+  ],
+  "sic_description": "78200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "G2v Recruitment Group Limited",
+    "Mr Luke Parker"
+  ],
+  "director_names": [
+    "BELL, Samuel Hamilton",
+    "GORFIN, James Andrew",
+    "MARTIN, Colin William"
+  ],
+  "director_count": 3
+}

@@ -1,0 +1,32 @@
+{
+  "supplier": "Thames Valley Buses Ltd",
+  "legal_name_searched": "Thames Valley Buses Ltd",
+  "ch_found": true,
+  "ch_name": "THAMES VALLEY BUSES LIMITED",
+  "company_number": "01128598",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1973-08-13",
+  "company_type": "ltd",
+  "registered_address": "Great Knollys Street, Reading, Berkshire, RG1 7HH, England",
+  "sic_codes": [
+    "49319"
+  ],
+  "sic_description": "49319",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Reading Transport Limited",
+    "Mr William Courtney-Smith"
+  ],
+  "director_names": [
+    "JENKINS, Laurence Sebastian",
+    "JENKINS, Laurence Sebastian",
+    "MAWOYO, Tinashe Godfrey",
+    "RANSON, Thomas",
+    "WILLIAMS, Robert Edward"
+  ],
+  "director_count": 5
+}

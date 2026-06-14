@@ -1,0 +1,27 @@
+{
+  "supplier": "Pumpkins Pre School Limited",
+  "legal_name_searched": "Pumpkins Pre School Limited",
+  "ch_found": true,
+  "ch_name": "PUMPKINS PRE-SCHOOL LIMITED",
+  "company_number": "09521383",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-04-01",
+  "company_type": "ltd",
+  "registered_address": "191-193 High Street, Hampton Hill, TW12 1NL, United Kingdom",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Kellie Fairhall"
+  ],
+  "director_names": [
+    "FAIRHALL, Kellie Louise"
+  ],
+  "director_count": 1
+}

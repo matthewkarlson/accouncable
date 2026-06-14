@@ -1,0 +1,35 @@
+{
+  "supplier": "NSL Limited",
+  "legal_name_searched": "NSL Limited",
+  "ch_found": true,
+  "ch_name": "NSL LIMITED",
+  "company_number": "06033060",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2006-12-19",
+  "company_type": "ltd",
+  "registered_address": "77 Shaftesbury Avenue, 3rd Floor, London, W1D 5DU, United Kingdom",
+  "sic_codes": [
+    "84110"
+  ],
+  "sic_description": "84110",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Marston (Holdings) Limited",
+    "Nsl Finance Limited"
+  ],
+  "director_names": [
+    "ASTLEY BIRTWISTLE, Edward",
+    "COWAN, Emma",
+    "DEL MAR, Sam",
+    "FLEMING, Martin",
+    "HANSHAW, Keith",
+    "JOHNSON, Martin",
+    "LAMBERT, Marcus Edward",
+    "MOORE, Fraser"
+  ],
+  "director_count": 8
+}

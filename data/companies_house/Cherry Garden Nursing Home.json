@@ -1,0 +1,28 @@
+{
+  "supplier": "Cherry Garden Nursing Home",
+  "legal_name_searched": "Cherry Garden Nursing Home",
+  "ch_found": true,
+  "ch_name": "TEIGNMOUTH CARE LTD",
+  "company_number": "10773255",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-05-16",
+  "company_type": "ltd",
+  "registered_address": "Centrum House 57-59 High Street, Twyford, Reading, RG10 9AJ, England",
+  "sic_codes": [
+    "87300"
+  ],
+  "sic_description": "87300",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Centrum Care Group Ltd"
+  ],
+  "director_names": [
+    "SHAH, Mehul Pravin",
+    "SHAH, Tushar Liladhar"
+  ],
+  "director_count": 2
+}

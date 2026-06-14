@@ -1,0 +1,32 @@
+{
+  "supplier": "City Of Oxford Motor Srvcs Ltd t/a Oxford Bus Co.",
+  "legal_name_searched": "City Of Oxford Motor Srvcs Ltd",
+  "ch_found": true,
+  "ch_name": "THE CITY OF OXFORD MOTOR SERVICES LIMITED",
+  "company_number": "00091106",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1906-12-06",
+  "company_type": "ltd",
+  "registered_address": "Second Floor 55 Degrees North, Pilgrim Street, Newcastle Upon Tyne, NE1 6BL, United Kingdom",
+  "sic_codes": [
+    "49319"
+  ],
+  "sic_description": "49319",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Go-Ahead Holding Limited"
+  ],
+  "director_names": [
+    "BUTLER, Neil David",
+    "DE SOUSA, Glenn Francisco Estevao",
+    "DEAN, Martin Richard",
+    "LARGE, Thomas",
+    "MARION, Luke Carl",
+    "RITCHIE, Shaun William"
+  ],
+  "director_count": 6
+}

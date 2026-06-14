@@ -1,0 +1,28 @@
+{
+  "supplier": "Wise Owls Club Ltd",
+  "legal_name_searched": "Wise Owls Club Ltd",
+  "ch_found": true,
+  "ch_name": "WISE OWLS CLUB LIMITED",
+  "company_number": "05993020",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2006-11-08",
+  "company_type": "ltd",
+  "registered_address": "8 Manor Park Church Road, Great Barton, Bury St. Edmunds, IP31 2QR, England",
+  "sic_codes": [
+    "88910"
+  ],
+  "sic_description": "88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Tanya Elizabeth Galitzine-Scott"
+  ],
+  "director_names": [
+    "GALITZINE-SCOTT, Tanya Elizabeth",
+    "HUGHES, Laura Elizabeth"
+  ],
+  "director_count": 2
+}

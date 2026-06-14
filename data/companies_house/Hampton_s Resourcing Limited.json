@@ -1,0 +1,30 @@
+{
+  "supplier": "Hampton\u2019s Resourcing Limited",
+  "legal_name_searched": "Hampton\u2019s Resourcing Limited",
+  "ch_found": true,
+  "ch_name": "HAMPTON'S RESOURCING LIMITED",
+  "company_number": "08439682",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2013-03-12",
+  "company_type": "ltd",
+  "registered_address": "Corner Oak, 1 Homer Road, Solihull, B91 3QG",
+  "sic_codes": [
+    "78200"
+  ],
+  "sic_description": "78200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Hampton's People Group Limited",
+    "Mr Simon James Ray",
+    "Mr Gary Thomas Mcphee"
+  ],
+  "director_names": [
+    "MCPHEE, Gary Thomas",
+    "RAY, Simon James"
+  ],
+  "director_count": 2
+}

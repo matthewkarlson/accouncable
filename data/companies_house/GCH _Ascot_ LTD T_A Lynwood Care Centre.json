@@ -1,0 +1,30 @@
+{
+  "supplier": "GCH (Ascot) LTD T/A Lynwood Care Centre",
+  "legal_name_searched": "GCH (Ascot) LTD",
+  "ch_found": true,
+  "ch_name": "GCH (ASCOT) LIMITED",
+  "company_number": "16062175",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2024-11-05",
+  "company_type": "ltd",
+  "registered_address": "2 Vine Street, Gold Care Homes, 1st Floor, Uxbridge, UB8 1QE, England",
+  "sic_codes": [
+    "87100",
+    "87300",
+    "87900"
+  ],
+  "sic_description": "87100, 87300, 87900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ssjmt Investments Ltd"
+  ],
+  "director_names": [
+    "GIDAR, Sukhvinder",
+    "SEHGAL, Dipinder Kaur, Mrs."
+  ],
+  "director_count": 2
+}

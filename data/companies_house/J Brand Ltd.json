@@ -1,0 +1,31 @@
+{
+  "supplier": "J Brand Ltd",
+  "legal_name_searched": "J Brand Ltd",
+  "ch_found": true,
+  "ch_name": "J. BRAND & SONS PROPERTY DEVELOPMENT LTD",
+  "company_number": "04431875",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2002-05-03",
+  "company_type": "ltd",
+  "registered_address": "92 Station Road, Clacton-On-Sea, Essex, CO15 1SG",
+  "sic_codes": [
+    "68100"
+  ],
+  "sic_description": "68100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Janice Brand",
+    "Mr John Brand"
+  ],
+  "director_names": [
+    "BRAND, Janice",
+    "BRAND, Janice",
+    "BRAND, John",
+    "BRAND, Nicholas Terence"
+  ],
+  "director_count": 4
+}

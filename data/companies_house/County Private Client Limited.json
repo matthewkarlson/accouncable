@@ -1,0 +1,28 @@
+{
+  "supplier": "County Private Client Limited",
+  "legal_name_searched": "County Private Client Limited",
+  "ch_found": true,
+  "ch_name": "COUNTY PRIVATE CLIENT LIMITED",
+  "company_number": "06923054",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2009-06-03",
+  "company_type": "ltd",
+  "registered_address": "Moran House, Suite 7 449-451 High Road, Willesden, London, NW10 2JJ, United Kingdom",
+  "sic_codes": [
+    "98000"
+  ],
+  "sic_description": "98000",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "South East Consortium Ltd"
+  ],
+  "director_names": [
+    "KOTECHA, Amit",
+    "KOTECHA, Viren"
+  ],
+  "director_count": 2
+}

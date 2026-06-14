@@ -1,0 +1,33 @@
+{
+  "supplier": "R Collard Limited",
+  "legal_name_searched": "R Collard Limited",
+  "ch_found": true,
+  "ch_name": "R. COLLARD LIMITED",
+  "company_number": "03002310",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1994-12-16",
+  "company_type": "ltd",
+  "registered_address": "Eversley Haulage Park Brickhouse Hill, Eversley, Hook, RG27 0PZ, United Kingdom",
+  "sic_codes": [
+    "38320",
+    "43110",
+    "43120",
+    "49410"
+  ],
+  "sic_description": "38320, 43110, 43120, 49410",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Collard Group Limited"
+  ],
+  "director_names": [
+    "WILCOCK, David Ian",
+    "CHILLERY, James Alexander",
+    "COLLARD, Robert John",
+    "KINSELLA, Karen Jane"
+  ],
+  "director_count": 4
+}

@@ -1,0 +1,36 @@
+{
+  "supplier": "S & C Slatter Limited",
+  "legal_name_searched": "S & C Slatter Limited",
+  "ch_found": true,
+  "ch_name": "S & C SLATTER LIMITED",
+  "company_number": "06537517",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2008-03-18",
+  "company_type": "ltd",
+  "registered_address": "Hill Cottage, Enborne, Newbury, RG20 0HA",
+  "sic_codes": [
+    "43999"
+  ],
+  "sic_description": "43999",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "The Slatter Group Limited",
+    "Mr David Samuel Slatter"
+  ],
+  "director_names": [
+    "CALKIN, Nicholas John",
+    "DANIELS, Thomas Adam",
+    "O'CONNOR, Benedict Francis John",
+    "SLATTER, Caroline Jane",
+    "SLATTER, David Samuel",
+    "SLATTER, Michelle",
+    "SMITH, Gordon David",
+    "TURNBULL, Jon Paul",
+    "WARREN, Paul Thomas"
+  ],
+  "director_count": 9
+}

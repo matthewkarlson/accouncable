@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Raw source CSVs — run the scraper to fetch these
+data/raw/
+
+# Claude Code local settings
+.claude/
+

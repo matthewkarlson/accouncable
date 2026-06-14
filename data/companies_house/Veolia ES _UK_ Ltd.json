@@ -1,0 +1,35 @@
+{
+  "supplier": "Veolia ES (UK) Ltd",
+  "legal_name_searched": "Veolia ES (UK) Ltd",
+  "ch_found": true,
+  "ch_name": "VEOLIA ES (UK) LIMITED",
+  "company_number": "02481991",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1990-03-16",
+  "company_type": "ltd",
+  "registered_address": "210 Pentonville Road, London, N1 9JY",
+  "sic_codes": [
+    "64209",
+    "96090"
+  ],
+  "sic_description": "64209, 96090",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Veolia Environmental Services Group (Uk) Limited"
+  ],
+  "director_names": [
+    "SWAINSBURY, Katherine",
+    "ABRAHAM, John Patrick",
+    "CLAVIE, Valerie Isabelle Marie",
+    "HAURET, Pascal",
+    "HULLAND, Richard Paul",
+    "KIRKMAN, Richard, Dr",
+    "MACPHAIL, Donald John Fraser",
+    "SWAINSBURY, Katherine"
+  ],
+  "director_count": 8
+}

@@ -1,0 +1,35 @@
+{
+  "supplier": "Optalis (Main Contract Only)",
+  "legal_name_searched": "Optalis (Main Contract Only)",
+  "ch_found": true,
+  "ch_name": "OPTALIS LIMITED",
+  "company_number": "07630156",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2011-05-11",
+  "company_type": "ltd",
+  "registered_address": "Trinity Court, Molly Millars Lane, Wokingham, RG41 2PY, England",
+  "sic_codes": [
+    "86900",
+    "87300",
+    "88100"
+  ],
+  "sic_description": "86900, 87300, 88100",
+  "accounts_overdue": false,
+  "is_council_controlled": true,
+  "psc_names": [
+    "Wokingham Borough Council",
+    "Royal Borough Of Windsor & Maidenhead",
+    "Optalis Holdings Limited"
+  ],
+  "director_names": [
+    "DEL CAMPO, Catherine Mary",
+    "HARE, David Andrew",
+    "MCDANIEL, Kevin Paul",
+    "POPE, Matthew James",
+    "WOODLAND, Helen"
+  ],
+  "director_count": 5
+}

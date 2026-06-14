@@ -1,0 +1,29 @@
+{
+  "supplier": "FCC Recycling (UK) Limited",
+  "legal_name_searched": "FCC Recycling (UK) Limited",
+  "ch_found": true,
+  "ch_name": "FCC RECYCLING (UK) LIMITED",
+  "company_number": "02674166",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1991-12-24",
+  "company_type": "ltd",
+  "registered_address": "3 Sidings Court, White Rose Way, Doncaster, DN4 5NU, England",
+  "sic_codes": [
+    "38210",
+    "82990"
+  ],
+  "sic_description": "38210, 82990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Fcc Environment (Uk) Limited"
+  ],
+  "director_names": [
+    "LONGDON, Steven John",
+    "MCKENZIE, Fraser Wilson"
+  ],
+  "director_count": 2
+}

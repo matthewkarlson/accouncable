@@ -1,0 +1,32 @@
+{
+  "supplier": "Solutions 4 Health Limited",
+  "legal_name_searched": "Solutions 4 Health Limited",
+  "ch_found": true,
+  "ch_name": "SOLUTIONS 4 HEALTH LTD",
+  "company_number": "06475161",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2008-01-16",
+  "company_type": "ltd",
+  "registered_address": "1 Thames Court, 2 Richfield Avenue, Reading, RG1 8EQ",
+  "sic_codes": [
+    "86900"
+  ],
+  "sic_description": "86900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Keshav Sankla",
+    "Mr Kush Sankla",
+    "Mrs Leena Sankla",
+    "Mr Kishore Kumar Sankla"
+  ],
+  "director_names": [
+    "SANKLA, Leena",
+    "SANKLA, Kishore Kumar",
+    "SANKLA, Leena"
+  ],
+  "director_count": 3
+}

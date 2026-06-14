@@ -1,0 +1,32 @@
+{
+  "supplier": "Impower Consulting Limited",
+  "legal_name_searched": "Impower Consulting Limited",
+  "ch_found": true,
+  "ch_name": "IMPOWER CONSULTING LIMITED",
+  "company_number": "03876501",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1999-11-09",
+  "company_type": "ltd",
+  "registered_address": "The Ministry, 79-81 C/O The Virtual Legal Counsel Ltd, Borough Road, London, SE1 1DN, England",
+  "sic_codes": [
+    "70229"
+  ],
+  "sic_description": "70229",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Impower Holdings Limited"
+  ],
+  "director_names": [
+    "AINGER, Jon",
+    "COOPER, Jeremy",
+    "DOWELL, Perry Michael Lee James",
+    "HANSON, Sean Patrick",
+    "HUGHES, Ebony Louise",
+    "SWAFFIELD, James William"
+  ],
+  "director_count": 6
+}

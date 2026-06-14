@@ -1,0 +1,31 @@
+{
+  "supplier": "Little Red Hen Day Nursery Limited",
+  "legal_name_searched": "Little Red Hen Day Nursery Limited",
+  "ch_found": true,
+  "ch_name": "LITTLE RED HEN DAY NURSERY LTD",
+  "company_number": "12554573",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2020-04-14",
+  "company_type": "ltd",
+  "registered_address": "Nursery Building, Wessex Primary School, St. Adrians Close, Maidenhead, SL6 3AT, England",
+  "sic_codes": [
+    "88910"
+  ],
+  "sic_description": "88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Joanna Aston",
+    "Mrs Rachel Johnson",
+    "Miss Hollie Louise Garratt"
+  ],
+  "director_names": [
+    "GARRATT, Hollie Louise",
+    "GRAY, Abbey Louise",
+    "JOHNSON, Rachel"
+  ],
+  "director_count": 3
+}

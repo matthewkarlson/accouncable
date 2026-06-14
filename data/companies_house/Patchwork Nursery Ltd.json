@@ -1,0 +1,27 @@
+{
+  "supplier": "Patchwork Nursery Ltd",
+  "legal_name_searched": "Patchwork Nursery Ltd",
+  "ch_found": true,
+  "ch_name": "PATCHWORK NURSERY LIMITED",
+  "company_number": "08382129",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2013-01-30",
+  "company_type": "ltd",
+  "registered_address": "36 Belmont Park Avenue, Maidenhead, SL6 6JS",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Kathleen Gladys Hopps"
+  ],
+  "director_names": [
+    "HOPPS, Kathleen Gladys"
+  ],
+  "director_count": 1
+}

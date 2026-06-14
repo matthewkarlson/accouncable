@@ -1,0 +1,21 @@
+{
+  "supplier": "St Marks Nursing Centre",
+  "legal_name_searched": "St Marks Nursing Centre",
+  "ch_found": true,
+  "ch_name": "ST MARKS COMMUNITY CENTRE",
+  "company_number": "CE002909",
+  "match_confidence": "medium",
+  "ch_status": "unknown",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "",
+  "company_type": "charitable-incorporated-organisation",
+  "registered_address": "",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [],
+  "director_count": 0
+}

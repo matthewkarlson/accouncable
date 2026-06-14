@@ -1,0 +1,31 @@
+{
+  "supplier": "Adson Construction Ltd",
+  "legal_name_searched": "Adson Construction Ltd",
+  "ch_found": true,
+  "ch_name": "ADSON CONSTRUCTION LTD",
+  "company_number": "13675381",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2021-10-12",
+  "company_type": "ltd",
+  "registered_address": "Unit 6 Airport Service Road, Portsmouth, PO3 5NU, England",
+  "sic_codes": [
+    "41201",
+    "41202",
+    "43290"
+  ],
+  "sic_description": "41201, 41202, 43290",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Adson Holdings Ltd",
+    "Mr Lee Stanley Ward Wilkinson"
+  ],
+  "director_names": [
+    "ROBINS, Max",
+    "WILKINSON, Lee Stanley Ward"
+  ],
+  "director_count": 2
+}

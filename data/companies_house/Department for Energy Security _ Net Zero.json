@@ -1,0 +1,28 @@
+{
+  "supplier": "Department for Energy Security & Net Zero",
+  "legal_name_searched": "Department for Energy Security & Net Zero",
+  "ch_found": true,
+  "ch_name": "COMMERCIAL AND INDUSTRIAL BATTERY SERVICES LIMITED",
+  "company_number": "NI680148",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2021-06-18",
+  "company_type": "ltd",
+  "registered_address": "1 Balloo Place, Bangor, BT19 7BP, Northern Ireland",
+  "sic_codes": [
+    "71129"
+  ],
+  "sic_description": "71129",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ken Philpott"
+  ],
+  "director_names": [
+    "DOUGLAS, Roy, Prof",
+    "PHILPOTT, Ken"
+  ],
+  "director_count": 2
+}

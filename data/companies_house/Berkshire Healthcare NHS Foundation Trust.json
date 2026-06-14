@@ -1,0 +1,21 @@
+{
+  "supplier": "Berkshire Healthcare NHS Foundation Trust",
+  "legal_name_searched": "Berkshire Healthcare NHS Foundation Trust",
+  "ch_found": true,
+  "ch_name": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST CHARITY FUND",
+  "company_number": "CE041202",
+  "match_confidence": "low",
+  "ch_status": "unknown",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "",
+  "company_type": "charitable-incorporated-organisation",
+  "registered_address": "",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [],
+  "director_count": 0
+}

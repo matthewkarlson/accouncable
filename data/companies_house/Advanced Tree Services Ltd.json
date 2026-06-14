@@ -1,0 +1,28 @@
+{
+  "supplier": "Advanced Tree Services Ltd",
+  "legal_name_searched": "Advanced Tree Services Ltd",
+  "ch_found": true,
+  "ch_name": "ADVANCED TREE SERVICES LIMITED",
+  "company_number": "03358569",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1997-04-23",
+  "company_type": "ltd",
+  "registered_address": "438 Streatham High Road, London, SW16 3PX, England",
+  "sic_codes": [
+    "02100",
+    "02200"
+  ],
+  "sic_description": "02100, 02200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Daron Mitchell"
+  ],
+  "director_names": [
+    "MITCHELL, Daron Gilliatt"
+  ],
+  "director_count": 1
+}

@@ -1,0 +1,29 @@
+{
+  "supplier": "Wessex M&E Services Ltd",
+  "legal_name_searched": "Wessex M&E Services Ltd",
+  "ch_found": true,
+  "ch_name": "WESSEX M&E SERVICES LIMITED",
+  "company_number": "03293382",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1996-12-17",
+  "company_type": "ltd",
+  "registered_address": "Drayton House, Drayton Lane, Chichester, PO20 2EW, United Kingdom",
+  "sic_codes": [
+    "43330"
+  ],
+  "sic_description": "43330",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr John Stuart Thorne",
+    "Mr Marcus Justin Peter Harrop"
+  ],
+  "director_names": [
+    "THORNE, John Stuart",
+    "THORNE, John Stuart"
+  ],
+  "director_count": 2
+}

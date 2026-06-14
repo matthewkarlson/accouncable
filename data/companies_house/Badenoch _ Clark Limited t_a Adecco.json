@@ -1,0 +1,31 @@
+{
+  "supplier": "Badenoch & Clark Limited t/a Adecco",
+  "legal_name_searched": "Badenoch & Clark Limited",
+  "ch_found": true,
+  "ch_name": "BADENOCH AND CLARK LIMITED",
+  "company_number": "01356186",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1978-03-07",
+  "company_type": "ltd",
+  "registered_address": "10 Bishops Square, London, E1 6EG, England",
+  "sic_codes": [
+    "78200"
+  ],
+  "sic_description": "78200",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Olsten (U.K.) Holdings Limited",
+    "Adecco Group Ag",
+    "Mps Group International Limited"
+  ],
+  "director_names": [
+    "ALLEN, Samantha Clare",
+    "DOWSETT, Daniel",
+    "FIRTH, Jonathan Simon"
+  ],
+  "director_count": 3
+}

@@ -1,0 +1,38 @@
+{
+  "supplier": "TotalEnergies Gas & Power Limited",
+  "legal_name_searched": "TotalEnergies Gas & Power Limited",
+  "ch_found": true,
+  "ch_name": "TOTALENERGIES GAS & POWER LIMITED",
+  "company_number": "02172239",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1987-09-30",
+  "company_type": "ltd",
+  "registered_address": "Totalenergies Gas & Power Limited Beech Gate, Kingswood Fields, Millfield Lane, Lower Kingswood, Tadworth, KT20 6RP, England",
+  "sic_codes": [
+    "35130",
+    "35140",
+    "35220",
+    "35230"
+  ],
+  "sic_description": "35130, 35140, 35220, 35230",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Totalenergies Gas & Power Holdings Uk Limited"
+  ],
+  "director_names": [
+    "CHEVALIER, Sophie",
+    "DOUCY, Mathieu Remy Rene",
+    "HATEM, Wassim",
+    "HUSSAIN, Faheem",
+    "JOFFROY, Gregory Noel Francis",
+    "LOBADOWSKY, Dimitri Maxime",
+    "ROBERTS, Anthony",
+    "SIMANDOUX, Jean-Marc",
+    "VIVIER, Laurent"
+  ],
+  "director_count": 9
+}

@@ -1,0 +1,29 @@
+{
+  "supplier": "C E Jeatt & Sons Ltd T/A White Bus Services",
+  "legal_name_searched": "C E Jeatt & Sons Ltd",
+  "ch_found": true,
+  "ch_name": "C.E. JEATT & SONS LIMITED",
+  "company_number": "01184445",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1974-09-18",
+  "company_type": "ltd",
+  "registered_address": "Donald Reid Group Limited 1010 Eskdale Road, Winnersh Triangle, Wokingham, RG41 5TS, United Kingdom",
+  "sic_codes": [
+    "49319"
+  ],
+  "sic_description": "49319",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Rowgate Group Limited"
+  ],
+  "director_names": [
+    "HOLGATE, Martin John",
+    "HOLGATE, Richard William",
+    "ROWLAND, Simon Christopher Keith"
+  ],
+  "director_count": 3
+}

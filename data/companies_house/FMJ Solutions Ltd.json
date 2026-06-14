@@ -1,0 +1,28 @@
+{
+  "supplier": "FMJ Solutions Ltd",
+  "legal_name_searched": "FMJ Solutions Ltd",
+  "ch_found": true,
+  "ch_name": "FMJ SOLUTIONS LIMITED",
+  "company_number": "12453928",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2020-02-10",
+  "company_type": "ltd",
+  "registered_address": "Unit 1 London Road, Twyford, Reading, RG10 9TZ, England",
+  "sic_codes": [
+    "43210"
+  ],
+  "sic_description": "43210",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Adrian Minel Costin"
+  ],
+  "director_names": [
+    "LEKA, Jetmir",
+    "POPA, Florian George"
+  ],
+  "director_count": 2
+}

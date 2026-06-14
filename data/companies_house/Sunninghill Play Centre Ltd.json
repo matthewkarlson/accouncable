@@ -1,0 +1,30 @@
+{
+  "supplier": "Sunninghill Play Centre Ltd",
+  "legal_name_searched": "Sunninghill Play Centre Ltd",
+  "ch_found": true,
+  "ch_name": "SUNNINGHILL PLAY CENTRE LTD",
+  "company_number": "07456519",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2010-12-01",
+  "company_type": "ltd",
+  "registered_address": "24-28 Brockenhurs Road, Ascot, SL5 9DL, United Kingdom",
+  "sic_codes": [
+    "85100",
+    "88910"
+  ],
+  "sic_description": "85100, 88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Carol O'Kill",
+    "Mrs Carol O'Kill"
+  ],
+  "director_names": [
+    "O'KILL, Carol",
+    "OKILL, Carol Olive"
+  ],
+  "director_count": 2
+}

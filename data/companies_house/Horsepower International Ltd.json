@@ -1,0 +1,27 @@
+{
+  "supplier": "Horsepower International Ltd",
+  "legal_name_searched": "Horsepower International Ltd",
+  "ch_found": true,
+  "ch_name": "H POWER INTERNATIONAL LIMITED",
+  "company_number": "02383294",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1989-05-12",
+  "company_type": "ltd",
+  "registered_address": "Stable House, St. Albans Close, Windsor, SL4 1UT",
+  "sic_codes": [
+    "73110"
+  ],
+  "sic_description": "73110",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Simon Howe Brooks-Ward"
+  ],
+  "director_names": [
+    "BROOKS WARD, Simon Howe"
+  ],
+  "director_count": 1
+}

@@ -1,0 +1,35 @@
+{
+  "supplier": "Always Growing Limited",
+  "legal_name_searched": "Always Growing Limited",
+  "ch_found": true,
+  "ch_name": "ALWAYS GROWING LTD",
+  "company_number": "09376375",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-01-06",
+  "company_type": "ltd",
+  "registered_address": "48 Haywards Mead, Eton Wick, Windsor, SL4 6JN, England",
+  "sic_codes": [
+    "85100",
+    "85590",
+    "85600",
+    "88910"
+  ],
+  "sic_description": "85100, 85590, 85600, 88910",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Ben Joseph Bausor",
+    "Mr Lewis John Fogarty"
+  ],
+  "director_names": [
+    "FOGARTY, Sheila Ann",
+    "BAUSOR, Ben",
+    "BAUSOR, Caitlin Boo",
+    "FOGARTY, Elaine Marie",
+    "FOGARTY, Lewis John"
+  ],
+  "director_count": 5
+}

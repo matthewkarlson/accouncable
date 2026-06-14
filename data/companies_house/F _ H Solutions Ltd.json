@@ -1,0 +1,29 @@
+{
+  "supplier": "F & H Solutions Ltd",
+  "legal_name_searched": "F & H Solutions Ltd",
+  "ch_found": true,
+  "ch_name": "F & H SOLUTION SERVICES LTD",
+  "company_number": "13233957",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2021-03-01",
+  "company_type": "ltd",
+  "registered_address": "310 Stafford Road, Croydon, CR0 4NH, England",
+  "sic_codes": [
+    "88990"
+  ],
+  "sic_description": "88990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Frank George Hancock",
+    "Mrs Shirley Martine Hancock"
+  ],
+  "director_names": [
+    "HANCOCK, Frank George",
+    "HANCOCK, Shirley Martine"
+  ],
+  "director_count": 2
+}

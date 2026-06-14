@@ -1,0 +1,21 @@
+{
+  "supplier": "Berkshire Pension Fund",
+  "legal_name_searched": "Berkshire Pension Fund",
+  "ch_found": true,
+  "ch_name": "THE BERKSHIRE FUND",
+  "company_number": "IC000725",
+  "match_confidence": "medium",
+  "ch_status": "converted-closed",
+  "is_suspicious_status": true,
+  "date_of_cessation": null,
+  "incorporated": "",
+  "company_type": "investment-company-with-variable-capital",
+  "registered_address": "",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [],
+  "director_count": 0
+}

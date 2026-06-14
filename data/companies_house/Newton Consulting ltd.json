@@ -1,0 +1,38 @@
+{
+  "supplier": "Newton Consulting ltd",
+  "legal_name_searched": "Newton Consulting ltd",
+  "ch_found": true,
+  "ch_name": "NEWTON CONSULTING LIMITED",
+  "company_number": "04279175",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2001-08-30",
+  "company_type": "ltd",
+  "registered_address": "2 Kingston Business Park, Kingston Bagpuize, Abingdon, OX13 5FE",
+  "sic_codes": [
+    "70229"
+  ],
+  "sic_description": "70229",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Newton Industrial Consultants Holdings Limited"
+  ],
+  "director_names": [
+    "DYDE, Stephen David",
+    "DYDE, Stephen David",
+    "GRINNELL, Ben Geoffrey",
+    "HAWES, Andrew Marcus",
+    "LACLAU, Benoit",
+    "LAWSON, Emily",
+    "LUM, Richard",
+    "PHILLIPS, Steven John",
+    "SCHOENMAKERS, Wilbert Paulus Johanna Maria",
+    "SUNLEY, Philip",
+    "WEDGWOOD, Thomas Dudley",
+    "WILSON, Stephen"
+  ],
+  "director_count": 12
+}

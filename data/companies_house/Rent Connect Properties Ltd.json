@@ -1,0 +1,28 @@
+{
+  "supplier": "Rent Connect Properties Ltd",
+  "legal_name_searched": "Rent Connect Properties Ltd",
+  "ch_found": true,
+  "ch_name": "RENT CONNECT PROPERTIES LIMITED",
+  "company_number": "10618207",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2017-02-14",
+  "company_type": "ltd",
+  "registered_address": "726 Capability Green, Luton, LU1 3LU, England",
+  "sic_codes": [
+    "68209"
+  ],
+  "sic_description": "68209",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Rent Connect Housing Limited",
+    "Mr Marc Gary Goodkind"
+  ],
+  "director_names": [
+    "LEVITON, Lester Adam"
+  ],
+  "director_count": 1
+}

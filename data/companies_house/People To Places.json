@@ -1,0 +1,33 @@
+{
+  "supplier": "People To Places",
+  "legal_name_searched": "People To Places",
+  "ch_found": true,
+  "ch_name": "PEOPLE TO PLACES",
+  "company_number": "04371133",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2002-02-11",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "C/O Craufurd Hale Group, The Ground Floor, Arena Court Crown Lane, Maidenhead, SL6 8QZ, United Kingdom",
+  "sic_codes": [
+    "49390"
+  ],
+  "sic_description": "49390",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Peter Haley"
+  ],
+  "director_names": [
+    "BASLEY, Jane Frances Maria",
+    "DHLIWAYO, Patience Bekezela",
+    "GREENSMITH, Adrian",
+    "LEWIS, Clive Robert",
+    "MACRAE, Scott Grant",
+    "PAUL, Jo-Ann",
+    "SKELTON, Reginald Thomas"
+  ],
+  "director_count": 7
+}

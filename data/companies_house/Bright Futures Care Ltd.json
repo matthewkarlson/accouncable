@@ -1,0 +1,30 @@
+{
+  "supplier": "Bright Futures Care Ltd",
+  "legal_name_searched": "Bright Futures Care Ltd",
+  "ch_found": true,
+  "ch_name": "BRIGHT FUTURES CARE LIMITED",
+  "company_number": "08157115",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2012-07-25",
+  "company_type": "ltd",
+  "registered_address": "C/O Bright Futures Care Limited Asher House, Barsbank Lane, Lymm, WA13 0ED, United Kingdom",
+  "sic_codes": [
+    "87900"
+  ],
+  "sic_description": "87900",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Project Pt Bidco Limited",
+    "Mr Paul Stephen O'Leary"
+  ],
+  "director_names": [
+    "ANDERSON, Iain James",
+    "EVANS, Meurig Fon",
+    "RUSSELL, Rachelle"
+  ],
+  "director_count": 3
+}

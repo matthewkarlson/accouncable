@@ -1,0 +1,33 @@
+{
+  "supplier": "Ben Motor & Allied Trades Ben Fund t/a Lynwood",
+  "legal_name_searched": "Ben Motor & Allied Trades Ben Fund",
+  "ch_found": true,
+  "ch_name": "BEN-MOTOR AND ALLIED TRADES BENEVOLENT FUND",
+  "company_number": "02163894",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1987-09-14",
+  "company_type": "private-limited-guarant-nsc",
+  "registered_address": "Blandy & Blandy Llp, 1 Friar Street, Reading, RG1 1DA, United Kingdom",
+  "sic_codes": [
+    "55900",
+    "68209",
+    "87300",
+    "88990"
+  ],
+  "sic_description": "55900, 68209, 87300, 88990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [
+    "SMITH, Martin",
+    "DALTON, William John Harling",
+    "HALL, Shirley Helen",
+    "LATHAM, Katherine Jane",
+    "NEWTON, Tracey Ann",
+    "OUTHWAITE, Mark Robert Canning"
+  ],
+  "director_count": 6
+}

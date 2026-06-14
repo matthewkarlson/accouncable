@@ -1,0 +1,48 @@
+{
+  "supplier": "Furze Platt Senior School",
+  "legal_name_searched": "Furze Platt Senior School",
+  "ch_found": true,
+  "ch_name": "FURZE PLATT SENIOR SCHOOL",
+  "company_number": "07834715",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2011-11-03",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "Furze Platt Senior School, Furze Platt Road, Maidenhead, SL6 7NQ",
+  "sic_codes": [
+    "85310"
+  ],
+  "sic_description": "85310",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Dr Andrew Morrison",
+    "Mr Gavin Olaf William Tisshaw",
+    "Mr Hugh James Boulter",
+    "Miss Tanya Susan White"
+  ],
+  "director_names": [
+    "KNIGHT, Jennifer Louise",
+    "AKHTAR, Nabeela",
+    "BOULTER, Hugh James",
+    "BRAMALL, Georgina Helen",
+    "FAIRES, Angie Helen",
+    "FLOOD, Diane",
+    "LE PAGE, Sue",
+    "MAIR, Katharine Jane",
+    "MORRISON, Andrew, Dr",
+    "OLLIFF, Robert Geoffrey",
+    "REYNOLDS, Joshua Peter",
+    "RODGERS, Christopher James",
+    "SISKIN, Daniel Jonathan",
+    "SMITH, Joanna Caroline",
+    "STEAD, Abigail Mary",
+    "STEED, Hugh Jerome",
+    "TISSHAW, Gavin Olaf William",
+    "UECKERMANN, Mari",
+    "WINROW-DAVIES, Kate Joanne"
+  ],
+  "director_count": 19
+}

@@ -1,0 +1,31 @@
+{
+  "supplier": "Sundry Bacs Supplier",
+  "legal_name_searched": "Sundry Bacs Supplier",
+  "ch_found": true,
+  "ch_name": "ALL & SUNDRY LTD.",
+  "company_number": "14907197",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2023-05-31",
+  "company_type": "ltd",
+  "registered_address": "128 City Road, London, EC1V 2NX, United Kingdom",
+  "sic_codes": [
+    "46190",
+    "46900",
+    "47910",
+    "70229"
+  ],
+  "sic_description": "46190, 46900, 47910, 70229",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Dannika Menezes",
+    "Dannika Karrenn Menezes, Unipessoal, Lda"
+  ],
+  "director_names": [
+    "MENEZES, Dannika"
+  ],
+  "director_count": 1
+}

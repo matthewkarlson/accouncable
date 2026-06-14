@@ -1,0 +1,28 @@
+{
+  "supplier": "Snug Nursery ta Storybook Montessori Ascot Ltd",
+  "legal_name_searched": "Snug Nursery",
+  "ch_found": true,
+  "ch_name": "SNUG NURSERY SCHOOLS LIMITED",
+  "company_number": "08388100",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2013-02-04",
+  "company_type": "ltd",
+  "registered_address": "Memorial House, Ascot High Street, Ascot, SL5 7JH, United Kingdom",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Storybook Asset Management Limited",
+    "Athiri Limited"
+  ],
+  "director_names": [
+    "BROSNAN, Mary"
+  ],
+  "director_count": 1
+}

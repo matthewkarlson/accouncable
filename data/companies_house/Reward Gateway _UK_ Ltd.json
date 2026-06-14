@@ -1,0 +1,30 @@
+{
+  "supplier": "Reward Gateway (UK) Ltd",
+  "legal_name_searched": "Reward Gateway (UK) Ltd",
+  "ch_found": true,
+  "ch_name": "REWARD GATEWAY (UK) LTD",
+  "company_number": "05696250",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2006-02-02",
+  "company_type": "ltd",
+  "registered_address": "Third Floor, 1 Dean Street, London, W1D 3RB, England",
+  "sic_codes": [
+    "82990"
+  ],
+  "sic_description": "82990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Erg Bidco Limited",
+    "Rg Engagement Group 2 Limited",
+    "Asperity Employee Benefits Group Limited"
+  ],
+  "director_names": [
+    "AFLALO, Thierry",
+    "ERULIN, Arnaud"
+  ],
+  "director_count": 2
+}

@@ -1,0 +1,28 @@
+{
+  "supplier": "Berkshire HC NHS FT- BH Nursery Fees",
+  "legal_name_searched": "Berkshire HC NHS FT- BH Nursery Fees",
+  "ch_found": true,
+  "ch_name": "HCS BERKSHIRE CLEANING SERVICES LTD",
+  "company_number": "13991958",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2022-03-21",
+  "company_type": "ltd",
+  "registered_address": "142 Bower Way, Slough, SL1 5JG, England",
+  "sic_codes": [
+    "81210",
+    "81299"
+  ],
+  "sic_description": "81210, 81299",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Ms Hanan Echenfouri"
+  ],
+  "director_names": [
+    "ECHENFOURI, Hanan"
+  ],
+  "director_count": 1
+}

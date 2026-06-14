@@ -1,0 +1,7 @@
+{
+  "supplier": "Dreamcatcher Childcare Ltd",
+  "ch_found": false,
+  "ch_status": "error: 429 Client Error: Too Many Requests for url: https://api.company-information.service.gov.uk/search/companies?q=Dreamcatcher+Childcare+Ltd&items_per_page=5",
+  "date_of_cessation": null,
+  "match_confidence": "error"
+}

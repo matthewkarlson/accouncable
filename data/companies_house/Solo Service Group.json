@@ -1,0 +1,31 @@
+{
+  "supplier": "Solo Service Group",
+  "legal_name_searched": "Solo Service Group",
+  "ch_found": true,
+  "ch_name": "SOLO SERVICE GROUP LIMITED",
+  "company_number": "02626708",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "1991-07-05",
+  "company_type": "ltd",
+  "registered_address": "1 Axis Court, Riverside Business Park, Mallard Way Swansea Vale, SA7 0AJ",
+  "sic_codes": [
+    "81299"
+  ],
+  "sic_description": "81299",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Stephen Layton Hammett"
+  ],
+  "director_names": [
+    "EVANS, Sophie Eileena",
+    "COOPER, Caroline Michelle",
+    "HAMMETT, Stephen Layton",
+    "REES, Jayne Elizabeth",
+    "SYPLIWTCHAK, Caroline Jane"
+  ],
+  "director_count": 5
+}

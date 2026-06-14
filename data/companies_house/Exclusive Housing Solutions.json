@@ -1,0 +1,31 @@
+{
+  "supplier": "Exclusive Housing Solutions",
+  "legal_name_searched": "Exclusive Housing Solutions",
+  "ch_found": true,
+  "ch_name": "EXCLUSIVE HOUSING SOLUTIONS LIMITED",
+  "company_number": "09603880",
+  "match_confidence": "prefix",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2015-05-21",
+  "company_type": "ltd",
+  "registered_address": "Friars Mead, Old Church Lane, Stanmore, HA7 2RD, England",
+  "sic_codes": [
+    "68100"
+  ],
+  "sic_description": "68100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Exclusive Housing Solutions (Holdings) Limited",
+    "Mr Viren Kotecha",
+    "Mr Amit Kotecha"
+  ],
+  "director_names": [
+    "KOTECHA, Viren",
+    "KOTECHA, Amit",
+    "KOTECHA, Viren"
+  ],
+  "director_count": 3
+}

@@ -1,0 +1,29 @@
+{
+  "supplier": "Healthcare Homes (LSC) Ltd t/a Sandown Park",
+  "legal_name_searched": "Healthcare Homes (LSC) Ltd",
+  "ch_found": true,
+  "ch_name": "HEALTHCARE HOMES (LSC) LIMITED",
+  "company_number": "06990425",
+  "match_confidence": "high",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2009-08-13",
+  "company_type": "ltd",
+  "registered_address": "The Beeches, Apex 12 Old Ipswich Road, Ardleigh, Colchester, CO7 7QR, England",
+  "sic_codes": [
+    "86102"
+  ],
+  "sic_description": "86102",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Healthcare Homes Group Ltd"
+  ],
+  "director_names": [
+    "COCHRANE, Gordon Douglas",
+    "GIDLOW, Helen",
+    "KING, Mathew James"
+  ],
+  "director_count": 3
+}

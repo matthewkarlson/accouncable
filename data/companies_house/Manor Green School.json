@@ -1,0 +1,29 @@
+{
+  "supplier": "Manor Green School",
+  "legal_name_searched": "Manor Green School",
+  "ch_found": true,
+  "ch_name": "ANSTEY MANOR SCHOOL LIMITED",
+  "company_number": "08656399",
+  "match_confidence": "low",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2013-08-19",
+  "company_type": "ltd",
+  "registered_address": "58 Buckingham Gate, London, SW1E 6AJ, England",
+  "sic_codes": [
+    "82990"
+  ],
+  "sic_description": "82990",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Cavendish Education Limited"
+  ],
+  "director_names": [
+    "GIBSON, Emily Elizabeth",
+    "HASSAN, Aatif Naveed",
+    "WERGAN, Nicholas Raymond"
+  ],
+  "director_count": 3
+}

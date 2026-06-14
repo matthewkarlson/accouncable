@@ -1,0 +1,35 @@
+{
+  "supplier": "St Pirans School Ltd",
+  "legal_name_searched": "St Pirans School Ltd",
+  "ch_found": true,
+  "ch_name": "ST. PIRAN'S (GB) LTD",
+  "company_number": "04532510",
+  "match_confidence": "medium",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2002-09-11",
+  "company_type": "ltd",
+  "registered_address": "Chaucer House,, White Hart Yard, London, SE1 1NX, England",
+  "sic_codes": [
+    "85422"
+  ],
+  "sic_description": "85422",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mr Kirshan Marius Roshun Andradi",
+    "Mrs Kirtida Andradi",
+    "Mr Timothy Marius Ashanta Andradi"
+  ],
+  "director_names": [
+    "SATHEESKUMAR, Rajanathan",
+    "CHANDRA, Mahendra",
+    "GOPALAKRISHNAN, Arjun",
+    "MUNIANDY, Yagarajan",
+    "SATHEESKUMAR, Rajanathan",
+    "SILBERGH, David Michael",
+    "SRINIVASAN, Gurunathan"
+  ],
+  "director_count": 7
+}

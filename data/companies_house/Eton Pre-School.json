@@ -1,0 +1,36 @@
+{
+  "supplier": "Eton Pre-School",
+  "legal_name_searched": "Eton Pre-School",
+  "ch_found": true,
+  "ch_name": "ETON PRE-SCHOOL",
+  "company_number": "07598405",
+  "match_confidence": "exact",
+  "ch_status": "active",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "2011-04-11",
+  "company_type": "private-limited-guarant-nsc-limited-exemption",
+  "registered_address": "St Johns Church Hall Off Sun Close, High Street, Eton, SL4 6AR",
+  "sic_codes": [
+    "85100"
+  ],
+  "sic_description": "85100",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [
+    "Mrs Michelle Clare Wernham",
+    "Mrs Adeline Moston",
+    "Mrs Leanne Bowyer",
+    "Mrs Laura Jane Walsh",
+    "Mrs Claudia Elizabeth Stuart Shearman"
+  ],
+  "director_names": [
+    "CLIFFORD, Susan Patricia",
+    "MARKHAM, Carly Beth",
+    "MCDONAGH, Sorcha",
+    "SETTLE, Abby",
+    "SHEARMAN, Claudia Elizabeth Stuart",
+    "WERNHAM, Michelle Clare"
+  ],
+  "director_count": 6
+}

@@ -1,0 +1,21 @@
+{
+  "supplier": "Leisure Focus Trust",
+  "legal_name_searched": "Leisure Focus Trust",
+  "ch_found": true,
+  "ch_name": "LEISURE FOCUS TRUST",
+  "company_number": "CE022299",
+  "match_confidence": "exact",
+  "ch_status": "unknown",
+  "is_suspicious_status": false,
+  "date_of_cessation": null,
+  "incorporated": "",
+  "company_type": "charitable-incorporated-organisation",
+  "registered_address": "",
+  "sic_codes": [],
+  "sic_description": "",
+  "accounts_overdue": false,
+  "is_council_controlled": false,
+  "psc_names": [],
+  "director_names": [],
+  "director_count": 0
+}
